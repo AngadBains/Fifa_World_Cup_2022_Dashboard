@@ -1,0 +1,5443 @@
+[{
+  "player_stats": [
+    {
+      "player": "Aaron Mooy",
+      "position": "MF",
+      "team": "Australia",
+      "age": 32,
+      "club": "Celtic",
+      "birth_year": 1990
+    },
+    {
+      "player": "Aaron Ramsey",
+      "position": "MF",
+      "team": "Wales",
+      "age": 31,
+      "club": "Nice",
+      "birth_year": 1990
+    },
+    {
+      "player": "Abdelhamid Sabiri",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 26,
+      "club": "Sampdoria",
+      "birth_year": 1996
+    },
+    {
+      "player": "Abdelkarim Hassan",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 29,
+      "club": "Al Sadd SC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Abderrazak Hamdallah",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 32,
+      "club": "Al-Ittihad",
+      "birth_year": 1990
+    },
+    {
+      "player": "Abdessamad Ezzalzouli",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 21,
+      "club": "Osasuna",
+      "birth_year": 2001
+    },
+    {
+      "player": "Abdou Diallo",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 26,
+      "club": "RB Leipzig",
+      "birth_year": 1996
+    },
+    {
+      "player": "Abdul Fatawu Issahaku",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 18,
+      "club": "Sporting CP",
+      "birth_year": 2004
+    },
+    {
+      "player": "Abdulaziz Hatem",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Rayyan SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Abdulelah Al-Amri",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 25,
+      "club": "Al-Nassr",
+      "birth_year": 1997
+    },
+    {
+      "player": "Abdulellah Al-Malki",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 28,
+      "club": "Al-Hilal",
+      "birth_year": 1994
+    },
+    {
+      "player": "Abdullah Madu",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 29,
+      "club": "Al-Nassr",
+      "birth_year": 1993
+    },
+    {
+      "player": "Abdulrahman Al-Aboud",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 27,
+      "club": "Al-Ittihad",
+      "birth_year": 1995
+    },
+    {
+      "player": "Abolfazl Jalali",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 24,
+      "club": "Esteghlal",
+      "birth_year": 1998
+    },
+    {
+      "player": "Achraf Dari",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 23,
+      "club": "Brest",
+      "birth_year": 1999
+    },
+    {
+      "player": "Achraf Hakimi",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 24,
+      "club": "Paris S-G",
+      "birth_year": 1998
+    },
+    {
+      "player": "Adrien Rabiot",
+      "position": "MF",
+      "team": "France",
+      "age": 27,
+      "club": "Juventus",
+      "birth_year": 1995
+    },
+    {
+      "player": "AgustÃ­n Canobbio",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 24,
+      "club": "Atl Paranaense",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ahmad Nourollahi",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 29,
+      "club": "Al-Ahli Dubai FC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Ahmed Alaaeldin",
+      "position": "FW",
+      "team": "Qatar",
+      "age": 29,
+      "club": "Al-Gharafa Sports Club",
+      "birth_year": 1993
+    },
+    {
+      "player": "Aimen Dahmen",
+      "position": "GK",
+      "team": "Tunisia",
+      "age": 25,
+      "club": "CS Sfaxien",
+      "birth_year": 1997
+    },
+    {
+      "player": "Ajdin Hrustic",
+      "position": "MF",
+      "team": "Australia",
+      "age": 26,
+      "club": "Hellas Verona",
+      "birth_year": 1996
+    },
+    {
+      "player": "Akram Afif",
+      "position": "FW",
+      "team": "Qatar",
+      "age": 26,
+      "club": "Al Sadd SC",
+      "birth_year": 1996
+    },
+    {
+      "player": "Alan Franco",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 24,
+      "club": "Talleres",
+      "birth_year": 1998
+    },
+    {
+      "player": "Alejandro Balde",
+      "position": "DF",
+      "team": "Spain",
+      "age": 19,
+      "club": "Barcelona",
+      "birth_year": 2003
+    },
+    {
+      "player": "Aleksandar MitroviÄ‡",
+      "position": "FW",
+      "team": "Serbia",
+      "age": 28,
+      "club": "Fulham",
+      "birth_year": 1994
+    },
+    {
+      "player": "Alex Sandro",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 31,
+      "club": "Juventus",
+      "birth_year": 1991
+    },
+    {
+      "player": "Alex Telles",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 30,
+      "club": "Sevilla",
+      "birth_year": 1992
+    },
+    {
+      "player": "Alexander Bah",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 25,
+      "club": "Benfica",
+      "birth_year": 1997
+    },
+    {
+      "player": "Alexander Djiku",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 28,
+      "club": "Strasbourg",
+      "birth_year": 1994
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 23,
+      "club": "Brighton",
+      "birth_year": 1998
+    },
+    {
+      "player": "Alexis Vega",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Guadalajara",
+      "birth_year": 1997
+    },
+    {
+      "player": "Ali Abdi",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 28,
+      "club": "Caen",
+      "birth_year": 1993
+    },
+    {
+      "player": "Ali Al Hassan",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 25,
+      "club": "Al-Nassr",
+      "birth_year": 1997
+    },
+    {
+      "player": "Ali Al-Bulaihi",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 33,
+      "club": "Al-Hilal",
+      "birth_year": 1989
+    },
+    {
+      "player": "Ali Assadalla",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 29,
+      "club": "Al Sadd SC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Ali Gholizadeh",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 26,
+      "club": "Charleroi",
+      "birth_year": 1996
+    },
+    {
+      "player": "Ali Karimi",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 28,
+      "club": "Kayserispor",
+      "birth_year": 1994
+    },
+    {
+      "player": "Ali MaÃ¢loul",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 32,
+      "club": "Al Ahly SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Alidu Seidu",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 22,
+      "club": "Clermont Foot",
+      "birth_year": 2000
+    },
+    {
+      "player": "Alireza Beiranvand",
+      "position": "GK",
+      "team": "IR Iran",
+      "age": 30,
+      "club": "Persepolis",
+      "birth_year": 1992
+    },
+    {
+      "player": "Alireza Jahanbakhsh",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 29,
+      "club": "Feyenoord",
+      "birth_year": 1993
+    },
+    {
+      "player": "Alisson",
+      "position": "GK",
+      "team": "Brazil",
+      "age": 30,
+      "club": "Liverpool",
+      "birth_year": 1992
+    },
+    {
+      "player": "Alistair Johnston",
+      "position": "DF",
+      "team": "Canada",
+      "age": 24,
+      "club": "CF MontrÃ©al",
+      "birth_year": 1998
+    },
+    {
+      "player": "Almoez Ali",
+      "position": "FW",
+      "team": "Qatar",
+      "age": 26,
+      "club": "Al Duhail SC",
+      "birth_year": 1996
+    },
+    {
+      "player": "Alphonso Davies",
+      "position": "MF",
+      "team": "Canada",
+      "age": 22,
+      "club": "Bayern Munich",
+      "birth_year": 2000
+    },
+    {
+      "player": "Amadou Onana",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 21,
+      "club": "Everton",
+      "birth_year": 2001
+    },
+    {
+      "player": "Anass Zaroury",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 22,
+      "club": "Burnley",
+      "birth_year": 2000
+    },
+    {
+      "player": "Andre-Frank Zambo Anguissa",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "Napoli",
+      "birth_year": 1995
+    },
+    {
+      "player": "Andreas Christensen",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 26,
+      "club": "Barcelona",
+      "birth_year": 1996
+    },
+    {
+      "player": "Andreas Cornelius",
+      "position": "FW",
+      "team": "Denmark",
+      "age": 29,
+      "club": "FC Copenhagen",
+      "birth_year": 1993
+    },
+    {
+      "player": "Andreas Skov Olsen",
+      "position": "FW",
+      "team": "Denmark",
+      "age": 22,
+      "club": "Club Brugge",
+      "birth_year": 1999
+    },
+    {
+      "player": "Andrej KramariÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 31,
+      "club": "Hoffenheim",
+      "birth_year": 1991
+    },
+    {
+      "player": "Andries Noppert",
+      "position": "GK",
+      "team": "Netherlands",
+      "age": 28,
+      "club": "Heerenveen",
+      "birth_year": 1994
+    },
+    {
+      "player": "Andrija Å½ivkoviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 26,
+      "club": "PAOK",
+      "birth_year": 1996
+    },
+    {
+      "player": "Andre Ayew",
+      "position": "MF",
+      "team": "Ghana",
+      "age": 33,
+      "club": "Al Sadd SC",
+      "birth_year": 1989
+    },
+    {
+      "player": "Andre Onana",
+      "position": "GK",
+      "team": "Cameroon",
+      "age": 26,
+      "club": "Inter",
+      "birth_year": 1996
+    },
+    {
+      "player": "Andre Silva",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 27,
+      "club": "RB Leipzig",
+      "birth_year": 1995
+    },
+    {
+      "player": "AndrÃ©s Guardado",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 36,
+      "club": "Betis",
+      "birth_year": 1986
+    },
+    {
+      "player": "Anis Ben Slimane",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 21,
+      "club": "BrÃ¸ndby",
+      "birth_year": 2001
+    },
+    {
+      "player": "Ansu Fati",
+      "position": "FW",
+      "team": "Spain",
+      "age": 20,
+      "club": "Barcelona",
+      "birth_year": 2002
+    },
+    {
+      "player": "Ante Budimir",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 31,
+      "club": "Osasuna",
+      "birth_year": 1991
+    },
+    {
+      "player": "Anthony Contreras",
+      "position": "FW",
+      "team": "Costa Rica",
+      "age": 22,
+      "club": "Club Sport Herediano",
+      "birth_year": 2000
+    },
+    {
+      "player": "Antoine Griezmann",
+      "position": "MF",
+      "team": "France",
+      "age": 31,
+      "club": "Atletico Madrid",
+      "birth_year": 1991
+    },
+    {
+      "player": "Antoine Semenyo",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 22,
+      "club": "Bristol City",
+      "birth_year": 2000
+    },
+    {
+      "player": "Antonee Robinson",
+      "position": "DF",
+      "team": "United States",
+      "age": 25,
+      "club": "Fulham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Antonio Rudiger",
+      "position": "DF",
+      "team": "Germany",
+      "age": 29,
+      "club": "Real Madrid",
+      "birth_year": 1993
+    },
+    {
+      "player": "Antony",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 22,
+      "club": "Manchester Utd",
+      "birth_year": 2000
+    },
+    {
+      "player": "AntÃ³nio Silva",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 19,
+      "club": "Benfica",
+      "birth_year": 2003
+    },
+    {
+      "player": "Ao Tanaka",
+      "position": "MF",
+      "team": "Japan",
+      "age": 24,
+      "club": "DÃ¼sseldorf",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ardon Jasari",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 20,
+      "club": "Luzern",
+      "birth_year": 2002
+    },
+    {
+      "player": "Arkadiusz Milik",
+      "position": "FW",
+      "team": "Poland",
+      "age": 28,
+      "club": "Juventus",
+      "birth_year": 1994
+    },
+    {
+      "player": "Artur JÄ™drzejczyk",
+      "position": "DF",
+      "team": "Poland",
+      "age": 35,
+      "club": "Legia Warsaw",
+      "birth_year": 1987
+    },
+    {
+      "player": "Asiri Haitham",
+      "position": "FW",
+      "team": "Saudi Arabia",
+      "age": 21,
+      "club": "Al-Ahli",
+      "birth_year": 2001
+    },
+    {
+      "player": "Assim Madibo",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 26,
+      "club": "Al Duhail SC",
+      "birth_year": 1996
+    },
+    {
+      "player": "Atiba Hutchinson",
+      "position": "MF",
+      "team": "Canada",
+      "age": 39,
+      "club": "BeÅŸiktaÅŸ",
+      "birth_year": 1983
+    },
+    {
+      "player": "AurÃ©lien TchouamÃ©ni",
+      "position": "MF",
+      "team": "France",
+      "age": 22,
+      "club": "Real Madrid",
+      "birth_year": 2000
+    },
+    {
+      "player": "Awer Mabil",
+      "position": "MF",
+      "team": "Australia",
+      "age": 27,
+      "club": "CÃ¡diz",
+      "birth_year": 1995
+    },
+    {
+      "player": "Axel Disasi",
+      "position": "DF",
+      "team": "France",
+      "age": 24,
+      "club": "Monaco",
+      "birth_year": 1998
+    },
+    {
+      "player": "Axel Witsel",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 33,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1989
+    },
+    {
+      "player": "Ayase Ueda",
+      "position": "FW",
+      "team": "Japan",
+      "age": 24,
+      "club": "Cercle Brugge",
+      "birth_year": 1998
+    },
+    {
+      "player": "Aymeric Laporte",
+      "position": "DF",
+      "team": "Spain",
+      "age": 28,
+      "club": "Manchester City",
+      "birth_year": 1994
+    },
+    {
+      "player": "Aziz Behich",
+      "position": "DF",
+      "team": "Australia",
+      "age": 32,
+      "club": "Dundee United",
+      "birth_year": 1990
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 22,
+      "club": "Angers",
+      "birth_year": 2000
+    },
+    {
+      "player": "AÃ¯ssa LaÃ¯douni",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 26,
+      "club": "FerencvÃ¡ros",
+      "birth_year": 1996
+    },
+    {
+      "player": "Baba Rahman",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 28,
+      "club": "Reading",
+      "birth_year": 1994
+    },
+    {
+      "player": "Badr Banoun",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 29,
+      "club": "Qatar SC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Bailey Wright",
+      "position": "DF",
+      "team": "Australia",
+      "age": 30,
+      "club": "Sunderland",
+      "birth_year": 1992
+    },
+    {
+      "player": "Bamba Dieng",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 22,
+      "club": "Marseille",
+      "birth_year": 2000
+    },
+    {
+      "player": "Bartosz BereszyÅ„ski",
+      "position": "DF",
+      "team": "Poland",
+      "age": 30,
+      "club": "Sampdoria",
+      "birth_year": 1992
+    },
+    {
+      "player": "Bassam Al-Rawi",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 25,
+      "club": "Al Duhail SC",
+      "birth_year": 1997
+    },
+    {
+      "player": "Ben Davies",
+      "position": "DF",
+      "team": "Wales",
+      "age": 29,
+      "club": "Tottenham",
+      "birth_year": 1993
+    },
+    {
+      "player": "Benjamin Pavard",
+      "position": "DF",
+      "team": "France",
+      "age": 26,
+      "club": "Bayern Munich",
+      "birth_year": 1996
+    },
+    {
+      "player": "Bernardo Silva",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 28,
+      "club": "Manchester City",
+      "birth_year": 1994
+    },
+    {
+      "player": "Bilal El Khannous",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 18,
+      "club": "Genk",
+      "birth_year": 2004
+    },
+    {
+      "player": "Borna BariÅ¡iÄ‡",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 30,
+      "club": "Rangers",
+      "birth_year": 1992
+    },
+    {
+      "player": "Borna Sosa",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 24,
+      "club": "Stuttgart",
+      "birth_year": 1998
+    },
+    {
+      "player": "Boualem Khoukhi",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Sadd SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Boulaye Dia",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 26,
+      "club": "Salernitana",
+      "birth_year": 1996
+    },
+    {
+      "player": "Brandon Aguilera",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 19,
+      "club": "AsociaciÃ³n Deportiva Guanacasteca",
+      "birth_year": 2003
+    },
+    {
+      "player": "Breel Embolo",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 25,
+      "club": "Monaco",
+      "birth_year": 1997
+    },
+    {
+      "player": "Brenden Aaronson",
+      "position": "MF",
+      "team": "United States",
+      "age": 22,
+      "club": "Leeds United",
+      "birth_year": 2000
+    },
+    {
+      "player": "Brennan Johnson",
+      "position": "FW",
+      "team": "Wales",
+      "age": 21,
+      "club": "Nott'ham Forest",
+      "birth_year": 2001
+    },
+    {
+      "player": "Bruno Fernandes",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 28,
+      "club": "Manchester Utd",
+      "birth_year": 1994
+    },
+    {
+      "player": "Bruno GuimarÃ£es",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 25,
+      "club": "Newcastle Utd",
+      "birth_year": 1997
+    },
+    {
+      "player": "Bruno PetkoviÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 28,
+      "club": "Dinamo Zagreb",
+      "birth_year": 1994
+    },
+    {
+      "player": "Bryan Mbeumo",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 23,
+      "club": "Brentford",
+      "birth_year": 1999
+    },
+    {
+      "player": "Bryan Oviedo",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 32,
+      "club": "Real Salt Lake",
+      "birth_year": 1990
+    },
+    {
+      "player": "Bryan Ruiz",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 37,
+      "club": "Liga Deportiva Alajuelense",
+      "birth_year": 1985
+    },
+    {
+      "player": "Bukayo Saka",
+      "position": "FW",
+      "team": "England",
+      "age": 21,
+      "club": "Arsenal",
+      "birth_year": 2001
+    },
+    {
+      "player": "Callum Wilson",
+      "position": "FW",
+      "team": "England",
+      "age": 30,
+      "club": "Newcastle Utd",
+      "birth_year": 1992
+    },
+    {
+      "player": "Cameron Carter-Vickers",
+      "position": "DF",
+      "team": "United States",
+      "age": 24,
+      "club": "Celtic",
+      "birth_year": 1997
+    },
+    {
+      "player": "Carlos Gruezo",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 27,
+      "club": "Augsburg",
+      "birth_year": 1995
+    },
+    {
+      "player": "Carlos MartÃ­nez",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 23,
+      "club": "AD San Carlos",
+      "birth_year": 1999
+    },
+    {
+      "player": "Carlos Soler",
+      "position": "MF",
+      "team": "Spain",
+      "age": 25,
+      "club": "Paris S-G",
+      "birth_year": 1997
+    },
+    {
+      "player": "Casemiro",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 30,
+      "club": "Manchester Utd",
+      "birth_year": 1992
+    },
+    {
+      "player": "Celso Borges",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 34,
+      "club": "Liga Deportiva Alajuelense",
+      "birth_year": 1988
+    },
+    {
+      "player": "Charles De Ketelaere",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 21,
+      "club": "Milan",
+      "birth_year": 2001
+    },
+    {
+      "player": "Charly RodrÃ­guez",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Cruz Azul",
+      "birth_year": 1997
+    },
+    {
+      "player": "Cheikhou KouyatÃ©",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 32,
+      "club": "Nott'ham Forest",
+      "birth_year": 1989
+    },
+    {
+      "player": "Cho Guesung",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 24,
+      "club": "Jeonbuk",
+      "birth_year": 1998
+    },
+    {
+      "player": "Cho Yumin",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 26,
+      "club": "Daejeon Citizen FC",
+      "birth_year": 1996
+    },
+    {
+      "player": "Chris Mepham",
+      "position": "DF",
+      "team": "Wales",
+      "age": 25,
+      "club": "Bournemouth",
+      "birth_year": 1997
+    },
+    {
+      "player": "Christian Bassogog",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "Shanghai Shen",
+      "birth_year": 1995
+    },
+    {
+      "player": "Christian Eriksen",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 30,
+      "club": "Manchester Utd",
+      "birth_year": 1992
+    },
+    {
+      "player": "Christian Fassnacht",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 29,
+      "club": "Young Boys",
+      "birth_year": 1993
+    },
+    {
+      "player": "Christian NÃ¸rgaard",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 28,
+      "club": "Brentford",
+      "birth_year": 1994
+    },
+    {
+      "player": "Christian Pulisic",
+      "position": "FW",
+      "team": "United States",
+      "age": 24,
+      "club": "Chelsea",
+      "birth_year": 1998
+    },
+    {
+      "player": "Christopher Wooh",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 21,
+      "club": "Rennes",
+      "birth_year": 2001
+    },
+    {
+      "player": "Cody Gakpo",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 23,
+      "club": "PSV Eindhoven",
+      "birth_year": 1999
+    },
+    {
+      "player": "Collins Fai",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 30,
+      "club": "Al-Ta'ee",
+      "birth_year": 1992
+    },
+    {
+      "player": "Connor Roberts",
+      "position": "DF",
+      "team": "Wales",
+      "age": 27,
+      "club": "Burnley",
+      "birth_year": 1995
+    },
+    {
+      "player": "Craig Goodwin",
+      "position": "MF",
+      "team": "Australia",
+      "age": 31,
+      "club": "Adelaide",
+      "birth_year": 1991
+    },
+    {
+      "player": "Cristian Romero",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 24,
+      "club": "Tottenham",
+      "birth_year": 1998
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 37,
+      "club": "Manchester Utd",
+      "birth_year": 1985
+    },
+    {
+      "player": "Cyle Larin",
+      "position": "FW",
+      "team": "Canada",
+      "age": 27,
+      "club": "Club Brugge",
+      "birth_year": 1995
+    },
+    {
+      "player": "CÃ©sar Azpilicueta",
+      "position": "DF",
+      "team": "Spain",
+      "age": 33,
+      "club": "Chelsea",
+      "birth_year": 1989
+    },
+    {
+      "player": "CÃ©sar Montes",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Monterrey",
+      "birth_year": 1997
+    },
+    {
+      "player": "Daichi Kamada",
+      "position": "FW",
+      "team": "Japan",
+      "age": 26,
+      "club": "Eint Frankfurt",
+      "birth_year": 1996
+    },
+    {
+      "player": "Daizen Maeda",
+      "position": "FW",
+      "team": "Japan",
+      "age": 25,
+      "club": "Celtic",
+      "birth_year": 1997
+    },
+    {
+      "player": "Daley Blind",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 32,
+      "club": "Ajax",
+      "birth_year": 1990
+    },
+    {
+      "player": "Damian SzymaÅ„ski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 27,
+      "club": "AEK Athens",
+      "birth_year": 1995
+    },
+    {
+      "player": "Dani Alves",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 39,
+      "club": "UNAM",
+      "birth_year": 1983
+    },
+    {
+      "player": "Dani Carvajal",
+      "position": "DF",
+      "team": "Spain",
+      "age": 30,
+      "club": "Real Madrid",
+      "birth_year": 1992
+    },
+    {
+      "player": "Dani Olmo",
+      "position": "FW",
+      "team": "Spain",
+      "age": 24,
+      "club": "RB Leipzig",
+      "birth_year": 1998
+    },
+    {
+      "player": "Daniel Amartey",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 27,
+      "club": "Leicester City",
+      "birth_year": 1994
+    },
+    {
+      "player": "Daniel ChacÃ³n",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 21,
+      "club": "CS CartaginÃ©s",
+      "birth_year": 2001
+    },
+    {
+      "player": "Daniel James",
+      "position": "FW",
+      "team": "Wales",
+      "age": 25,
+      "club": "Fulham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Daniel Kyereh",
+      "position": "MF",
+      "team": "Ghana",
+      "age": 26,
+      "club": "Freiburg",
+      "birth_year": 1996
+    },
+    {
+      "player": "Danilo",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 31,
+      "club": "Juventus",
+      "birth_year": 1991
+    },
+    {
+      "player": "Danilo Pereira",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 31,
+      "club": "Paris S-G",
+      "birth_year": 1991
+    },
+    {
+      "player": "Danny Ward",
+      "position": "GK",
+      "team": "Wales",
+      "age": 29,
+      "club": "Leicester City",
+      "birth_year": 1993
+    },
+    {
+      "player": "Darko LazoviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 32,
+      "club": "Hellas Verona",
+      "birth_year": 1990
+    },
+    {
+      "player": "Darwin NÃºÃ±ez",
+      "position": "FW",
+      "team": "Uruguay",
+      "age": 23,
+      "club": "Liverpool",
+      "birth_year": 1999
+    },
+    {
+      "player": "David Raum",
+      "position": "DF",
+      "team": "Germany",
+      "age": 24,
+      "club": "RB Leipzig",
+      "birth_year": 1998
+    },
+    {
+      "player": "David Wotherspoon",
+      "position": "MF",
+      "team": "Canada",
+      "age": 32,
+      "club": "St Johnstone",
+      "birth_year": 1990
+    },
+    {
+      "player": "Davy Klaassen",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 29,
+      "club": "Ajax",
+      "birth_year": 1993
+    },
+    {
+      "player": "Dayot Upamecano",
+      "position": "DF",
+      "team": "France",
+      "age": 24,
+      "club": "Bayern Munich",
+      "birth_year": 1998
+    },
+    {
+      "player": "DeAndre Yedlin",
+      "position": "DF",
+      "team": "United States",
+      "age": 29,
+      "club": "Inter Miami",
+      "birth_year": 1993
+    },
+    {
+      "player": "Declan Rice",
+      "position": "MF",
+      "team": "England",
+      "age": 23,
+      "club": "West Ham",
+      "birth_year": 1999
+    },
+    {
+      "player": "Dejan Lovren",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 33,
+      "club": "Zenit",
+      "birth_year": 1989
+    },
+    {
+      "player": "Denis Odoi",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 34,
+      "club": "Club Brugge",
+      "birth_year": 1988
+    },
+    {
+      "player": "Denis Zakaria",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 26,
+      "club": "Chelsea",
+      "birth_year": 1996
+    },
+    {
+      "player": "Denzel Dumfries",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 26,
+      "club": "Inter",
+      "birth_year": 1996
+    },
+    {
+      "player": "Devis Epassy",
+      "position": "GK",
+      "team": "Cameroon",
+      "age": 29,
+      "club": "Abha",
+      "birth_year": 1993
+    },
+    {
+      "player": "Diego GodÃ­n",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 36,
+      "club": "VÃ©lez Sarsf",
+      "birth_year": 1986
+    },
+    {
+      "player": "Diogo Costa",
+      "position": "GK",
+      "team": "Portugal",
+      "age": 23,
+      "club": "Porto",
+      "birth_year": 1999
+    },
+    {
+      "player": "Diogo Dalot",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 23,
+      "club": "Manchester Utd",
+      "birth_year": 1999
+    },
+    {
+      "player": "Djibril Sow",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 25,
+      "club": "Eint Frankfurt",
+      "birth_year": 1997
+    },
+    {
+      "player": "Djorkaeff Reasco",
+      "position": "FW",
+      "team": "Ecuador",
+      "age": 23,
+      "club": "Newell's OB",
+      "birth_year": 1999
+    },
+    {
+      "player": "Dominik LivakoviÄ‡",
+      "position": "GK",
+      "team": "Croatia",
+      "age": 27,
+      "club": "Dinamo Zagreb",
+      "birth_year": 1995
+    },
+    {
+      "player": "Dries Mertens",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 35,
+      "club": "Galatasaray",
+      "birth_year": 1987
+    },
+    {
+      "player": "DuÅ¡an TadiÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 34,
+      "club": "Ajax",
+      "birth_year": 1988
+    },
+    {
+      "player": "DuÅ¡an VlahoviÄ‡",
+      "position": "FW",
+      "team": "Serbia",
+      "age": 22,
+      "club": "Juventus",
+      "birth_year": 2000
+    },
+    {
+      "player": "Dylan Bronn",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 27,
+      "club": "Salernitana",
+      "birth_year": 1995
+    },
+    {
+      "player": "Eden Hazard",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 31,
+      "club": "Real Madrid",
+      "birth_year": 1991
+    },
+    {
+      "player": "Ederson",
+      "position": "GK",
+      "team": "Brazil",
+      "age": 29,
+      "club": "Manchester City",
+      "birth_year": 1993
+    },
+    {
+      "player": "Edimilson Fernandes",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 26,
+      "club": "Mainz 05",
+      "birth_year": 1996
+    },
+    {
+      "player": "Edinson Cavani",
+      "position": "FW",
+      "team": "Uruguay",
+      "age": 35,
+      "club": "Valencia",
+      "birth_year": 1987
+    },
+    {
+      "player": "Edouard Mendy",
+      "position": "GK",
+      "team": "Senegal",
+      "age": 30,
+      "club": "Chelsea",
+      "birth_year": 1992
+    },
+    {
+      "player": "Edson Ãlvarez",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Ajax",
+      "birth_year": 1997
+    },
+    {
+      "player": "Eduardo Camavinga",
+      "position": "DF",
+      "team": "France",
+      "age": 20,
+      "club": "Real Madrid",
+      "birth_year": 2002
+    },
+    {
+      "player": "Ehsan Hajsafi",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 32,
+      "club": "AEK Athens",
+      "birth_year": 1990
+    },
+    {
+      "player": "Ellyes Skhiri",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 27,
+      "club": "KÃ¶ln",
+      "birth_year": 1995
+    },
+    {
+      "player": "Emiliano MartÃ­nez",
+      "position": "GK",
+      "team": "Argentina",
+      "age": 30,
+      "club": "Aston Villa",
+      "birth_year": 1992
+    },
+    {
+      "player": "Enner Valencia",
+      "position": "FW",
+      "team": "Ecuador",
+      "age": 33,
+      "club": "FenerbahÃ§e",
+      "birth_year": 1989
+    },
+    {
+      "player": "Enzo Ebosse",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 23,
+      "club": "Udinese",
+      "birth_year": 1999
+    },
+    {
+      "player": "Enzo FernÃ¡ndez",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 21,
+      "club": "Benfica",
+      "birth_year": 2001
+    },
+    {
+      "player": "Eray CÃ¶mert",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 24,
+      "club": "Valencia",
+      "birth_year": 1998
+    },
+    {
+      "player": "Eric Dier",
+      "position": "DF",
+      "team": "England",
+      "age": 28,
+      "club": "Tottenham",
+      "birth_year": 1994
+    },
+    {
+      "player": "Eric Maxim Choupo-Moting",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 33,
+      "club": "Bayern Munich",
+      "birth_year": 1989
+    },
+    {
+      "player": "Erick GutiÃ©rrez",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 27,
+      "club": "PSV Eindhoven",
+      "birth_year": 1995
+    },
+    {
+      "player": "Ethan Ampadu",
+      "position": "MF",
+      "team": "Wales",
+      "age": 22,
+      "club": "Spezia",
+      "birth_year": 2000
+    },
+    {
+      "player": "Everton Ribeiro",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 33,
+      "club": "Flamengo",
+      "birth_year": 1989
+    },
+    {
+      "player": "Exequiel Palacios",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 24,
+      "club": "Leverkusen",
+      "birth_year": 1998
+    },
+    {
+      "player": "Fabian Frei",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 33,
+      "club": "Basel",
+      "birth_year": 1989
+    },
+    {
+      "player": "Fabian Rieder",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 20,
+      "club": "Young Boys",
+      "birth_year": 2002
+    },
+    {
+      "player": "Fabian SchÃ¤r",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 30,
+      "club": "Newcastle Utd",
+      "birth_year": 1991
+    },
+    {
+      "player": "Fabinho",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 29,
+      "club": "Liverpool",
+      "birth_year": 1993
+    },
+    {
+      "player": "Facundo Pellistri",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 20,
+      "club": "Manchester Utd",
+      "birth_year": 2001
+    },
+    {
+      "player": "Famara Diedhiou",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 30,
+      "club": "Alanyaspor",
+      "birth_year": 1992
+    },
+    {
+      "player": "Federico Valverde",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 24,
+      "club": "Real Madrid",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ferjani Sassi",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 30,
+      "club": "Al Duhail SC",
+      "birth_year": 1992
+    },
+    {
+      "player": "FerrÃ¡n Torres",
+      "position": "FW",
+      "team": "Spain",
+      "age": 22,
+      "club": "Barcelona",
+      "birth_year": 2000
+    },
+    {
+      "player": "Filip KostiÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 30,
+      "club": "Juventus",
+      "birth_year": 1992
+    },
+    {
+      "player": "Filip MladenoviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 31,
+      "club": "Legia Warsaw",
+      "birth_year": 1991
+    },
+    {
+      "player": "Filip ÄuriÄiÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 30,
+      "club": "Sampdoria",
+      "birth_year": 1992
+    },
+    {
+      "player": "Firas Al-Buraikan",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 22,
+      "club": "Al-Fateh",
+      "birth_year": 2000
+    },
+    {
+      "player": "FodÃ© Ballo-TourÃ©",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 25,
+      "club": "Milan",
+      "birth_year": 1997
+    },
+    {
+      "player": "Fran KaraÄiÄ‡",
+      "position": "DF",
+      "team": "Australia",
+      "age": 26,
+      "club": "Brescia",
+      "birth_year": 1996
+    },
+    {
+      "player": "Francisco Calvo",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 30,
+      "club": "Konyaspor",
+      "birth_year": 1992
+    },
+    {
+      "player": "Fred",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 29,
+      "club": "Manchester Utd",
+      "birth_year": 1993
+    },
+    {
+      "player": "Frenkie de Jong",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 25,
+      "club": "Barcelona",
+      "birth_year": 1997
+    },
+    {
+      "player": "FÃ©lix Torres Caicedo",
+      "position": "DF",
+      "team": "Ecuador",
+      "age": 25,
+      "club": "Santos",
+      "birth_year": 1997
+    },
+    {
+      "player": "Gabriel Jesus",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 25,
+      "club": "Arsenal",
+      "birth_year": 1997
+    },
+    {
+      "player": "Garang Kuol",
+      "position": "FW",
+      "team": "Australia",
+      "age": 18,
+      "club": "Central Coast",
+      "birth_year": 2004
+    },
+    {
+      "player": "Gareth Bale",
+      "position": "FW",
+      "team": "Wales",
+      "age": 33,
+      "club": "Los Angeles FC",
+      "birth_year": 1989
+    },
+    {
+      "player": "Gavi",
+      "position": "MF",
+      "team": "Spain",
+      "age": 18,
+      "club": "Barcelona",
+      "birth_year": 2004
+    },
+    {
+      "player": "GaÃ«l Ondoua",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "Hannover 96",
+      "birth_year": 1995
+    },
+    {
+      "player": "Georges-KÃ©vin N'Koudou",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "BeÅŸiktaÅŸ",
+      "birth_year": 1995
+    },
+    {
+      "player": "GermÃ¡n Pezzella",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 31,
+      "club": "Betis",
+      "birth_year": 1991
+    },
+    {
+      "player": "Gerson Torres",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 25,
+      "club": "Club Sport Herediano",
+      "birth_year": 1997
+    },
+    {
+      "player": "GhaylÃ¨ne Chaalali",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 28,
+      "club": "EspÃ©rance de Tunis",
+      "birth_year": 1994
+    },
+    {
+      "player": "Gideon Mensah",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 24,
+      "club": "Auxerre",
+      "birth_year": 1998
+    },
+    {
+      "player": "Gio Reyna",
+      "position": "FW",
+      "team": "United States",
+      "age": 20,
+      "club": "Dortmund",
+      "birth_year": 2002
+    },
+    {
+      "player": "Giorgian De Arrascaeta",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 28,
+      "club": "Flamengo",
+      "birth_year": 1994
+    },
+    {
+      "player": "Gleison Bremer",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 25,
+      "club": "Juventus",
+      "birth_year": 1997
+    },
+    {
+      "player": "Gonzalo Montiel",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 25,
+      "club": "Sevilla",
+      "birth_year": 1997
+    },
+    {
+      "player": "Gonzalo Plata",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 22,
+      "club": "Valladolid",
+      "birth_year": 2000
+    },
+    {
+      "player": "GonÃ§alo Ramos",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 21,
+      "club": "Benfica",
+      "birth_year": 2001
+    },
+    {
+      "player": "Granit Xhaka",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 30,
+      "club": "Arsenal",
+      "birth_year": 1992
+    },
+    {
+      "player": "Gregor Kobel",
+      "position": "GK",
+      "team": "Switzerland",
+      "age": 25,
+      "club": "Dortmund",
+      "birth_year": 1997
+    },
+    {
+      "player": "Grzegorz Krychowiak",
+      "position": "MF",
+      "team": "Poland",
+      "age": 32,
+      "club": "Al-Shabab",
+      "birth_year": 1990
+    },
+    {
+      "player": "Guido RodrÃ­guez",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 28,
+      "club": "Betis",
+      "birth_year": 1994
+    },
+    {
+      "player": "Guillermo Ochoa",
+      "position": "GK",
+      "team": "Mexico",
+      "age": 37,
+      "club": "AmÃ©rica",
+      "birth_year": 1985
+    },
+    {
+      "player": "Guillermo Varela",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 29,
+      "club": "Flamengo",
+      "birth_year": 1993
+    },
+    {
+      "player": "Haji Wright",
+      "position": "FW",
+      "team": "United States",
+      "age": 24,
+      "club": "Antalyaspor",
+      "birth_year": 1998
+    },
+    {
+      "player": "Hakim Ziyech",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 29,
+      "club": "Chelsea",
+      "birth_year": 1993
+    },
+    {
+      "player": "Hannibal Mejbri",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 19,
+      "club": "Birmingham City",
+      "birth_year": 2003
+    },
+    {
+      "player": "Haris SeferoviÄ‡",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 30,
+      "club": "Galatasaray",
+      "birth_year": 1992
+    },
+    {
+      "player": "Harry Kane",
+      "position": "FW",
+      "team": "England",
+      "age": 29,
+      "club": "Tottenham",
+      "birth_year": 1993
+    },
+    {
+      "player": "Harry Maguire",
+      "position": "DF",
+      "team": "England",
+      "age": 29,
+      "club": "Manchester Utd",
+      "birth_year": 1993
+    },
+    {
+      "player": "Harry Souttar",
+      "position": "DF",
+      "team": "Australia",
+      "age": 24,
+      "club": "Stoke City",
+      "birth_year": 1998
+    },
+    {
+      "player": "Harry Wilson",
+      "position": "MF",
+      "team": "Wales",
+      "age": 25,
+      "club": "Fulham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Hassan Al Tambakti",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 23,
+      "club": "Al-Shabab",
+      "birth_year": 1999
+    },
+    {
+      "player": "Hassan Al-Haydos",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Sadd SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Hattan Bahebri",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 30,
+      "club": "Al-Shabab",
+      "birth_year": 1992
+    },
+    {
+      "player": "Henry MartÃ­n",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 30,
+      "club": "AmÃ©rica",
+      "birth_year": 1992
+    },
+    {
+      "player": "HernÃ¡n GalÃ­ndez",
+      "position": "GK",
+      "team": "Ecuador",
+      "age": 35,
+      "club": "SD Aucas",
+      "birth_year": 1987
+    },
+    {
+      "player": "Hidemasa Morita",
+      "position": "MF",
+      "team": "Japan",
+      "age": 27,
+      "club": "Sporting CP",
+      "birth_year": 1995
+    },
+    {
+      "player": "Hiroki Ito",
+      "position": "DF",
+      "team": "Japan",
+      "age": 23,
+      "club": "Stuttgart",
+      "birth_year": 1999
+    },
+    {
+      "player": "Hiroki Sakai",
+      "position": "MF",
+      "team": "Japan",
+      "age": 32,
+      "club": "Urawa Reds",
+      "birth_year": 1990
+    },
+    {
+      "player": "Hirving Lozano",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 27,
+      "club": "Napoli",
+      "birth_year": 1995
+    },
+    {
+      "player": "Homam Ahmed",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 23,
+      "club": "Al-Gharafa Sports Club",
+      "birth_year": 1999
+    },
+    {
+      "player": "Hong Chul",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 32,
+      "club": "Daegu",
+      "birth_year": 1990
+    },
+    {
+      "player": "Hossein Hosseini",
+      "position": "GK",
+      "team": "IR Iran",
+      "age": 30,
+      "club": "Esteghlal",
+      "birth_year": 1992
+    },
+    {
+      "player": "Hossein Kanaanizadegan",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 28,
+      "club": "Al Ahli SC",
+      "birth_year": 1994
+    },
+    {
+      "player": "Hugo Lloris",
+      "position": "GK",
+      "team": "France",
+      "age": 35,
+      "club": "Tottenham",
+      "birth_year": 1986
+    },
+    {
+      "player": "Hwang Hee-chan",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 26,
+      "club": "Wolves",
+      "birth_year": 1996
+    },
+    {
+      "player": "Hwang In-beom",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 26,
+      "club": "Olympiacos",
+      "birth_year": 1996
+    },
+    {
+      "player": "Hwang Ui-jo",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Olympiacos",
+      "birth_year": 1992
+    },
+    {
+      "player": "HÃ©ctor Herrera",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 32,
+      "club": "Houston Dynamo",
+      "birth_year": 1990
+    },
+    {
+      "player": "HÃ©ctor Moreno",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 34,
+      "club": "Monterrey",
+      "birth_year": 1988
+    },
+    {
+      "player": "Ibrahima KonatÃ©",
+      "position": "DF",
+      "team": "France",
+      "age": 23,
+      "club": "Liverpool",
+      "birth_year": 1999
+    },
+    {
+      "player": "Idrissa Gana Gueye",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 33,
+      "club": "Everton",
+      "birth_year": 1989
+    },
+    {
+      "player": "Ilias Chair",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 25,
+      "club": "QPR",
+      "birth_year": 1997
+    },
+    {
+      "player": "Iliman Ndiaye",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 22,
+      "club": "Sheffield Utd",
+      "birth_year": 2000
+    },
+    {
+      "player": "Ismail Jakobs",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 23,
+      "club": "Monaco",
+      "birth_year": 1999
+    },
+    {
+      "player": "Ismail Mohamad",
+      "position": "FW",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Duhail SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Ismaila Sarr",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 24,
+      "club": "Watford",
+      "birth_year": 1998
+    },
+    {
+      "player": "IsmaÃ«l KonÃ©",
+      "position": "MF",
+      "team": "Canada",
+      "age": 20,
+      "club": "CF MontrÃ©al",
+      "birth_year": 2002
+    },
+    {
+      "player": "Issam Jebali",
+      "position": "FW",
+      "team": "Tunisia",
+      "age": 30,
+      "club": "Odense",
+      "birth_year": 1991
+    },
+    {
+      "player": "Ivan IliÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 21,
+      "club": "Hellas Verona",
+      "birth_year": 2001
+    },
+    {
+      "player": "Ivan PeriÅ¡iÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 33,
+      "club": "Tottenham",
+      "birth_year": 1989
+    },
+    {
+      "player": "IÃ±aki Williams",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 28,
+      "club": "Athletic Club",
+      "birth_year": 1994
+    },
+    {
+      "player": "Jack Grealish",
+      "position": "FW",
+      "team": "England",
+      "age": 27,
+      "club": "Manchester City",
+      "birth_year": 1995
+    },
+    {
+      "player": "Jackson Irvine",
+      "position": "MF",
+      "team": "Australia",
+      "age": 29,
+      "club": "St. Pauli",
+      "birth_year": 1993
+    },
+    {
+      "player": "Jackson Porozo",
+      "position": "DF",
+      "team": "Ecuador",
+      "age": 22,
+      "club": "Troyes",
+      "birth_year": 2000
+    },
+    {
+      "player": "Jakub KamiÅ„ski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 20,
+      "club": "Wolfsburg",
+      "birth_year": 2002
+    },
+    {
+      "player": "Jakub Kiwior",
+      "position": "DF",
+      "team": "Poland",
+      "age": 22,
+      "club": "Spezia",
+      "birth_year": 2000
+    },
+    {
+      "player": "Jamal Musiala",
+      "position": "MF",
+      "team": "Germany",
+      "age": 19,
+      "club": "Bayern Munich",
+      "birth_year": 2003
+    },
+    {
+      "player": "Jamie Maclaren",
+      "position": "FW",
+      "team": "Australia",
+      "age": 29,
+      "club": "Melb City",
+      "birth_year": 1993
+    },
+    {
+      "player": "Jan Bednarek",
+      "position": "DF",
+      "team": "Poland",
+      "age": 26,
+      "club": "Aston Villa",
+      "birth_year": 1996
+    },
+    {
+      "player": "Jan Vertonghen",
+      "position": "DF",
+      "team": "Belgium",
+      "age": 35,
+      "club": "Anderlecht",
+      "birth_year": 1987
+    },
+    {
+      "player": "Jason Cummings",
+      "position": "FW",
+      "team": "Australia",
+      "age": 27,
+      "club": "Central Coast",
+      "birth_year": 1995
+    },
+    {
+      "player": "Jawad El Yamiq",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 30,
+      "club": "Valladolid",
+      "birth_year": 1992
+    },
+    {
+      "player": "Jean-Charles Castelletto",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "Nantes",
+      "birth_year": 1995
+    },
+    {
+      "player": "Jeong Woo-yeong",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 23,
+      "club": "Freiburg",
+      "birth_year": 1999
+    },
+    {
+      "player": "Jeremy Doku",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 20,
+      "club": "Rennes",
+      "birth_year": 2002
+    },
+    {
+      "player": "Jeremy Sarmiento",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 20,
+      "club": "Brighton",
+      "birth_year": 2002
+    },
+    {
+      "player": "Jerome Ngom Mbekeli",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 24,
+      "club": "Colombe Sportive du Dja et Lobo",
+      "birth_year": 1998
+    },
+    {
+      "player": "Jesper LindstrÃ¸m",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 22,
+      "club": "Eint Frankfurt",
+      "birth_year": 2000
+    },
+    {
+      "player": "JesÃºs Ferreira",
+      "position": "FW",
+      "team": "United States",
+      "age": 21,
+      "club": "FC Dallas",
+      "birth_year": 2000
+    },
+    {
+      "player": "JesÃºs Gallardo",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 28,
+      "club": "Monterrey",
+      "birth_year": 1994
+    },
+    {
+      "player": "Jewison Bennette",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 18,
+      "club": "Sunderland",
+      "birth_year": 2004
+    },
+    {
+      "player": "Jhegson MÃ©ndez",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 25,
+      "club": "Los Angeles FC",
+      "birth_year": 1997
+    },
+    {
+      "player": "Joachim Andersen",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 26,
+      "club": "Crystal Palace",
+      "birth_year": 1996
+    },
+    {
+      "player": "Joakim MÃ¦hle",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 25,
+      "club": "Atalanta",
+      "birth_year": 1997
+    },
+    {
+      "player": "Joe Allen",
+      "position": "MF",
+      "team": "Wales",
+      "age": 32,
+      "club": "Swansea City",
+      "birth_year": 1990
+    },
+    {
+      "player": "Joe Morrell",
+      "position": "MF",
+      "team": "Wales",
+      "age": 25,
+      "club": "Portsmouth",
+      "birth_year": 1997
+    },
+    {
+      "player": "Joe Rodon",
+      "position": "DF",
+      "team": "Wales",
+      "age": 25,
+      "club": "Rennes",
+      "birth_year": 1997
+    },
+    {
+      "player": "Joel Campbell",
+      "position": "FW",
+      "team": "Costa Rica",
+      "age": 30,
+      "club": "LeÃ³n",
+      "birth_year": 1992
+    },
+    {
+      "player": "Johan Venegas",
+      "position": "FW",
+      "team": "Costa Rica",
+      "age": 34,
+      "club": "Liga Deportiva Alajuelense",
+      "birth_year": 1988
+    },
+    {
+      "player": "John Stones",
+      "position": "DF",
+      "team": "England",
+      "age": 28,
+      "club": "Manchester City",
+      "birth_year": 1994
+    },
+    {
+      "player": "Jonas Hofmann",
+      "position": "FW",
+      "team": "Germany",
+      "age": 30,
+      "club": "M'Gladbach",
+      "birth_year": 1992
+    },
+    {
+      "player": "Jonathan David",
+      "position": "FW",
+      "team": "Canada",
+      "age": 22,
+      "club": "Lille",
+      "birth_year": 2000
+    },
+    {
+      "player": "Jonathan Osorio",
+      "position": "MF",
+      "team": "Canada",
+      "age": 30,
+      "club": "Toronto FC",
+      "birth_year": 1992
+    },
+    {
+      "player": "Jordan Ayew",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 31,
+      "club": "Crystal Palace",
+      "birth_year": 1991
+    },
+    {
+      "player": "Jordan Henderson",
+      "position": "MF",
+      "team": "England",
+      "age": 32,
+      "club": "Liverpool",
+      "birth_year": 1990
+    },
+    {
+      "player": "Jordan Morris",
+      "position": "FW",
+      "team": "United States",
+      "age": 28,
+      "club": "Seattle",
+      "birth_year": 1994
+    },
+    {
+      "player": "Jordan Pickford",
+      "position": "GK",
+      "team": "England",
+      "age": 28,
+      "club": "Everton",
+      "birth_year": 1994
+    },
+    {
+      "player": "Jordan Veretout",
+      "position": "MF",
+      "team": "France",
+      "age": 29,
+      "club": "Marseille",
+      "birth_year": 1993
+    },
+    {
+      "player": "Jordi Alba",
+      "position": "DF",
+      "team": "Spain",
+      "age": 33,
+      "club": "Barcelona",
+      "birth_year": 1989
+    },
+    {
+      "player": "Jorge Eduardo SÃ¡nchez",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Ajax",
+      "birth_year": 1997
+    },
+    {
+      "player": "Josh Sargent",
+      "position": "FW",
+      "team": "United States",
+      "age": 22,
+      "club": "Norwich City",
+      "birth_year": 2000
+    },
+    {
+      "player": "Joshua Kimmich",
+      "position": "MF",
+      "team": "Germany",
+      "age": 27,
+      "club": "Bayern Munich",
+      "birth_year": 1995
+    },
+    {
+      "player": "Josip JuranoviÄ‡",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 27,
+      "club": "Celtic",
+      "birth_year": 1995
+    },
+    {
+      "player": "Josip StaniÅ¡iÄ‡",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 22,
+      "club": "Bayern Munich",
+      "birth_year": 2000
+    },
+    {
+      "player": "Josip Å utalo",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 22,
+      "club": "Dinamo Zagreb",
+      "birth_year": 2000
+    },
+    {
+      "player": "JosÃ© Cifuentes",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 23,
+      "club": "Los Angeles FC",
+      "birth_year": 1999
+    },
+    {
+      "player": "JosÃ© MarÃ­a GimÃ©nez",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 27,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1995
+    },
+    {
+      "player": "JoÃ£o Cancelo",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 28,
+      "club": "Manchester City",
+      "birth_year": 1994
+    },
+    {
+      "player": "JoÃ£o FÃ©lix",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 23,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1999
+    },
+    {
+      "player": "JoÃ£o MÃ¡rio",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 29,
+      "club": "Benfica",
+      "birth_year": 1993
+    },
+    {
+      "player": "JoÃ£o Palhinha",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 27,
+      "club": "Fulham",
+      "birth_year": 1995
+    },
+    {
+      "player": "JoÅ¡ko Gvardiol",
+      "position": "DF",
+      "team": "Croatia",
+      "age": 20,
+      "club": "RB Leipzig",
+      "birth_year": 2002
+    },
+    {
+      "player": "Juan Foyth",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 24,
+      "club": "Villarreal",
+      "birth_year": 1998
+    },
+    {
+      "player": "Juan Pablo Vargas",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 27,
+      "club": "Millonarios",
+      "birth_year": 1995
+    },
+    {
+      "player": "Jude Bellingham",
+      "position": "MF",
+      "team": "England",
+      "age": 19,
+      "club": "Dortmund",
+      "birth_year": 2003
+    },
+    {
+      "player": "Jules KoundÃ©",
+      "position": "DF",
+      "team": "France",
+      "age": 24,
+      "club": "Barcelona",
+      "birth_year": 1998
+    },
+    {
+      "player": "JuliÃ¡n Ãlvarez",
+      "position": "FW",
+      "team": "Argentina",
+      "age": 22,
+      "club": "Manchester City",
+      "birth_year": 2000
+    },
+    {
+      "player": "Jung Woo-young",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 33,
+      "club": "Al Sadd SC",
+      "birth_year": 1989
+    },
+    {
+      "player": "Junior Hoilett",
+      "position": "FW",
+      "team": "Canada",
+      "age": 32,
+      "club": "Reading",
+      "birth_year": 1990
+    },
+    {
+      "player": "Junya Ito",
+      "position": "MF",
+      "team": "Japan",
+      "age": 29,
+      "club": "Reims",
+      "birth_year": 1993
+    },
+    {
+      "player": "JurriÃ«n Timber",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 21,
+      "club": "Ajax",
+      "birth_year": 2001
+    },
+    {
+      "player": "Kai Havertz",
+      "position": "FW",
+      "team": "Germany",
+      "age": 23,
+      "club": "Chelsea",
+      "birth_year": 1999
+    },
+    {
+      "player": "Kalidou Koulibaly",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 31,
+      "club": "Chelsea",
+      "birth_year": 1991
+    },
+    {
+      "player": "Kalvin Phillips",
+      "position": "MF",
+      "team": "England",
+      "age": 27,
+      "club": "Manchester City",
+      "birth_year": 1995
+    },
+    {
+      "player": "Kamal Miller",
+      "position": "DF",
+      "team": "Canada",
+      "age": 25,
+      "club": "CF MontrÃ©al",
+      "birth_year": 1997
+    },
+    {
+      "player": "Kamaldeen Sulemana",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 20,
+      "club": "Rennes",
+      "birth_year": 2002
+    },
+    {
+      "player": "Kamil Glik",
+      "position": "DF",
+      "team": "Poland",
+      "age": 34,
+      "club": "Benevento",
+      "birth_year": 1988
+    },
+    {
+      "player": "Kamil Grosicki",
+      "position": "MF",
+      "team": "Poland",
+      "age": 34,
+      "club": "PogoÅ„ Szczecin",
+      "birth_year": 1988
+    },
+    {
+      "player": "Kaoru Mitoma",
+      "position": "MF",
+      "team": "Japan",
+      "age": 25,
+      "club": "Brighton",
+      "birth_year": 1997
+    },
+    {
+      "player": "Karim Ansarifard",
+      "position": "FW",
+      "team": "IR Iran",
+      "age": 32,
+      "club": "AC Omonia",
+      "birth_year": 1990
+    },
+    {
+      "player": "Karim Boudiaf",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Duhail SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Karl Toko Ekambi",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 30,
+      "club": "Lyon",
+      "birth_year": 1992
+    },
+    {
+      "player": "Karol Åšwiderski",
+      "position": "FW",
+      "team": "Poland",
+      "age": 25,
+      "club": "Charlotte",
+      "birth_year": 1997
+    },
+    {
+      "player": "Kasper Dolberg",
+      "position": "FW",
+      "team": "Denmark",
+      "age": 25,
+      "club": "Sevilla",
+      "birth_year": 1997
+    },
+    {
+      "player": "Kasper Schmeichel",
+      "position": "GK",
+      "team": "Denmark",
+      "age": 36,
+      "club": "Nice",
+      "birth_year": 1986
+    },
+    {
+      "player": "Keanu Baccus",
+      "position": "MF",
+      "team": "Australia",
+      "age": 24,
+      "club": "St Mirren",
+      "birth_year": 1998
+    },
+    {
+      "player": "Kellyn Acosta",
+      "position": "MF",
+      "team": "United States",
+      "age": 27,
+      "club": "Los Angeles FC",
+      "birth_year": 1995
+    },
+    {
+      "player": "Kendall Waston",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 34,
+      "club": "Deportivo Saprissa",
+      "birth_year": 1988
+    },
+    {
+      "player": "Kenneth Taylor",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 20,
+      "club": "Ajax",
+      "birth_year": 2002
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 31,
+      "club": "Manchester City",
+      "birth_year": 1991
+    },
+    {
+      "player": "Kevin RodrÃ­guez",
+      "position": "FW",
+      "team": "Ecuador",
+      "age": 22,
+      "birth_year": 2000
+    },
+    {
+      "player": "Kevin Ãlvarez",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 23,
+      "club": "Pachuca",
+      "birth_year": 1999
+    },
+    {
+      "player": "Keylor Navas",
+      "position": "GK",
+      "team": "Costa Rica",
+      "age": 36,
+      "club": "Paris S-G",
+      "birth_year": 1986
+    },
+    {
+      "player": "Keysher Fuller",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 28,
+      "club": "Club Sport Herediano",
+      "birth_year": 1994
+    },
+    {
+      "player": "Kieffer Moore",
+      "position": "FW",
+      "team": "Wales",
+      "age": 30,
+      "club": "Bournemouth",
+      "birth_year": 1992
+    },
+    {
+      "player": "Kieran Trippier",
+      "position": "DF",
+      "team": "England",
+      "age": 32,
+      "club": "Newcastle Utd",
+      "birth_year": 1990
+    },
+    {
+      "player": "Kim Jin-su",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Jeonbuk",
+      "birth_year": 1992
+    },
+    {
+      "player": "Kim Min-jae",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 26,
+      "club": "Napoli",
+      "birth_year": 1996
+    },
+    {
+      "player": "Kim Moonhwan",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 27,
+      "club": "Jeonbuk",
+      "birth_year": 1995
+    },
+    {
+      "player": "Kim Seung-gyu",
+      "position": "GK",
+      "team": "Korea Republic",
+      "age": 32,
+      "club": "Al-Shabab",
+      "birth_year": 1990
+    },
+    {
+      "player": "Kim Young-gwon",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 32,
+      "club": "Ulsan Hyundai",
+      "birth_year": 1990
+    },
+    {
+      "player": "Kingsley Coman",
+      "position": "FW",
+      "team": "France",
+      "age": 26,
+      "club": "Bayern Munich",
+      "birth_year": 1996
+    },
+    {
+      "player": "Ko Itakura",
+      "position": "DF",
+      "team": "Japan",
+      "age": 25,
+      "club": "M'Gladbach",
+      "birth_year": 1997
+    },
+    {
+      "player": "Koke",
+      "position": "MF",
+      "team": "Spain",
+      "age": 30,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1992
+    },
+    {
+      "player": "Kristijan JakiÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 25,
+      "club": "Eint Frankfurt",
+      "birth_year": 1997
+    },
+    {
+      "player": "Krystian Bielik",
+      "position": "MF",
+      "team": "Poland",
+      "age": 24,
+      "club": "Derby County",
+      "birth_year": 1998
+    },
+    {
+      "player": "Krzysztof PiÄ…tek",
+      "position": "FW",
+      "team": "Poland",
+      "age": 27,
+      "club": "Salernitana",
+      "birth_year": 1995
+    },
+    {
+      "player": "KrÃ©pin Diatta",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 23,
+      "club": "Monaco",
+      "birth_year": 1999
+    },
+    {
+      "player": "Kudus Mohammed",
+      "position": "FW",
+      "team": "Ghana",
+      "age": 22,
+      "club": "Ajax",
+      "birth_year": 2000
+    },
+    {
+      "player": "Kwon Chang-hoon",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 28,
+      "club": "Sangju Sangmu",
+      "birth_year": 1994
+    },
+    {
+      "player": "Kwon Kyung-won",
+      "position": "DF",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Gamba Osaka",
+      "birth_year": 1992
+    },
+    {
+      "player": "Kye Rowles",
+      "position": "DF",
+      "team": "Australia",
+      "age": 24,
+      "club": "Hearts",
+      "birth_year": 1998
+    },
+    {
+      "player": "Kyle Walker",
+      "position": "DF",
+      "team": "England",
+      "age": 32,
+      "club": "Manchester City",
+      "birth_year": 1990
+    },
+    {
+      "player": "Kylian MbappÃ©",
+      "position": "FW",
+      "team": "France",
+      "age": 23,
+      "club": "Paris S-G",
+      "birth_year": 1998
+    },
+    {
+      "player": "Lautaro MartÃ­nez",
+      "position": "FW",
+      "team": "Argentina",
+      "age": 25,
+      "club": "Inter",
+      "birth_year": 1997
+    },
+    {
+      "player": "Lawrence Ati-Zigi",
+      "position": "GK",
+      "team": "Ghana",
+      "age": 26,
+      "club": "St. Gallen",
+      "birth_year": 1996
+    },
+    {
+      "player": "Leander Dendoncker",
+      "position": "DF",
+      "team": "Belgium",
+      "age": 27,
+      "club": "Aston Villa",
+      "birth_year": 1995
+    },
+    {
+      "player": "Leandro Paredes",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 28,
+      "club": "Juventus",
+      "birth_year": 1994
+    },
+    {
+      "player": "Leandro Trossard",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 28,
+      "club": "Brighton",
+      "birth_year": 1994
+    },
+    {
+      "player": "Lee Jae-sung",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Mainz 05",
+      "birth_year": 1992
+    },
+    {
+      "player": "Lee Kangin",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 21,
+      "club": "Mallorca",
+      "birth_year": 2001
+    },
+    {
+      "player": "Leon Goretzka",
+      "position": "MF",
+      "team": "Germany",
+      "age": 27,
+      "club": "Bayern Munich",
+      "birth_year": 1995
+    },
+    {
+      "player": "Leroy SanÃ©",
+      "position": "FW",
+      "team": "Germany",
+      "age": 26,
+      "club": "Bayern Munich",
+      "birth_year": 1996
+    },
+    {
+      "player": "Liam Millar",
+      "position": "DF",
+      "team": "Canada",
+      "age": 23,
+      "club": "Basel",
+      "birth_year": 1999
+    },
+    {
+      "player": "Lionel Messi",
+      "position": "FW",
+      "team": "Argentina",
+      "age": 35,
+      "club": "Paris S-G",
+      "birth_year": 1987
+    },
+    {
+      "player": "Lisandro MartÃ­nez",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 24,
+      "club": "Manchester Utd",
+      "birth_year": 1998
+    },
+    {
+      "player": "Lovro Majer",
+      "position": "MF",
+      "team": "Croatia",
+      "age": 24,
+      "club": "Rennes",
+      "birth_year": 1998
+    },
+    {
+      "player": "LoÃ¯s Openda",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 22,
+      "club": "Lens",
+      "birth_year": 2000
+    },
+    {
+      "player": "Lucas Cavallini",
+      "position": "FW",
+      "team": "Canada",
+      "age": 29,
+      "club": "Vancouver",
+      "birth_year": 1992
+    },
+    {
+      "player": "Lucas HernÃ¡ndez",
+      "position": "DF",
+      "team": "France",
+      "age": 26,
+      "club": "Bayern Munich",
+      "birth_year": 1996
+    },
+    {
+      "player": "Lucas PaquetÃ¡",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 25,
+      "club": "West Ham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Luis ChÃ¡vez",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 26,
+      "club": "Pachuca",
+      "birth_year": 1996
+    },
+    {
+      "player": "Luis SuÃ¡rez",
+      "position": "FW",
+      "team": "Uruguay",
+      "age": 35,
+      "club": "Nacional",
+      "birth_year": 1987
+    },
+    {
+      "player": "Luka JoviÄ‡",
+      "position": "FW",
+      "team": "Serbia",
+      "age": 24,
+      "club": "Fiorentina",
+      "birth_year": 1997
+    },
+    {
+      "player": "Luka ModriÄ‡",
+      "position": "MF",
+      "team": "Croatia",
+      "age": 37,
+      "club": "Real Madrid",
+      "birth_year": 1985
+    },
+    {
+      "player": "Lukas Klostermann",
+      "position": "DF",
+      "team": "Germany",
+      "age": 26,
+      "club": "RB Leipzig",
+      "birth_year": 1996
+    },
+    {
+      "player": "Luke Shaw",
+      "position": "DF",
+      "team": "England",
+      "age": 27,
+      "club": "Manchester Utd",
+      "birth_year": 1995
+    },
+    {
+      "player": "Luuk de Jong",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 32,
+      "club": "PSV Eindhoven",
+      "birth_year": 1990
+    },
+    {
+      "player": "Majid Hosseini",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 26,
+      "club": "Kayserispor",
+      "birth_year": 1996
+    },
+    {
+      "player": "Manuel Akanji",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 27,
+      "club": "Manchester City",
+      "birth_year": 1995
+    },
+    {
+      "player": "Manuel Neuer",
+      "position": "GK",
+      "team": "Germany",
+      "age": 36,
+      "club": "Bayern Munich",
+      "birth_year": 1986
+    },
+    {
+      "player": "Marcelo BrozoviÄ‡",
+      "position": "MF",
+      "team": "Croatia",
+      "age": 30,
+      "club": "Inter",
+      "birth_year": 1992
+    },
+    {
+      "player": "Marco Asensio",
+      "position": "FW",
+      "team": "Spain",
+      "age": 26,
+      "club": "Real Madrid",
+      "birth_year": 1996
+    },
+    {
+      "player": "Marcos AcuÃ±a",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 31,
+      "club": "Sevilla",
+      "birth_year": 1991
+    },
+    {
+      "player": "Marcos Llorente",
+      "position": "DF",
+      "team": "Spain",
+      "age": 27,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1995
+    },
+    {
+      "player": "Marcus Rashford",
+      "position": "FW",
+      "team": "England",
+      "age": 25,
+      "club": "Manchester Utd",
+      "birth_year": 1997
+    },
+    {
+      "player": "Marcus Thuram",
+      "position": "FW",
+      "team": "France",
+      "age": 25,
+      "club": "M'Gladbach",
+      "birth_year": 1997
+    },
+    {
+      "player": "Mario GÃ¶tze",
+      "position": "MF",
+      "team": "Germany",
+      "age": 30,
+      "club": "Eint Frankfurt",
+      "birth_year": 1992
+    },
+    {
+      "player": "Mario PaÅ¡aliÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 27,
+      "club": "Atalanta",
+      "birth_year": 1995
+    },
+    {
+      "player": "Mark-Anthony Kaye",
+      "position": "MF",
+      "team": "Canada",
+      "age": 28,
+      "club": "Toronto FC",
+      "birth_year": 1994
+    },
+    {
+      "player": "Marko GrujiÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 26,
+      "club": "Porto",
+      "birth_year": 1996
+    },
+    {
+      "player": "Marko Livaja",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 29,
+      "club": "Hajduk Split",
+      "birth_year": 1993
+    },
+    {
+      "player": "Marquinhos",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 28,
+      "club": "Paris S-G",
+      "birth_year": 1994
+    },
+    {
+      "player": "Marten de Roon",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 31,
+      "club": "Atalanta",
+      "birth_year": 1991
+    },
+    {
+      "player": "Martin Braithwaite",
+      "position": "FW",
+      "team": "Denmark",
+      "age": 31,
+      "club": "Espanyol",
+      "birth_year": 1991
+    },
+    {
+      "player": "Martin Hongla",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 24,
+      "club": "Hellas Verona",
+      "birth_year": 1998
+    },
+    {
+      "player": "Martinelli",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 21,
+      "club": "Arsenal",
+      "birth_year": 2001
+    },
+    {
+      "player": "MartÃ­n CÃ¡ceres",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 35,
+      "club": "LA Galaxy",
+      "birth_year": 1987
+    },
+    {
+      "player": "Mason Mount",
+      "position": "MF",
+      "team": "England",
+      "age": 23,
+      "club": "Chelsea",
+      "birth_year": 1999
+    },
+    {
+      "player": "Mateo KovaÄiÄ‡",
+      "position": "MF",
+      "team": "Croatia",
+      "age": 28,
+      "club": "Chelsea",
+      "birth_year": 1994
+    },
+    {
+      "player": "Matheus Nunes",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 24,
+      "club": "Wolves",
+      "birth_year": 1998
+    },
+    {
+      "player": "Mathew Leckie",
+      "position": "MF",
+      "team": "Australia",
+      "age": 31,
+      "club": "Melb City",
+      "birth_year": 1991
+    },
+    {
+      "player": "Mathew Ryan",
+      "position": "GK",
+      "team": "Australia",
+      "age": 30,
+      "club": "FC Copenhagen",
+      "birth_year": 1992
+    },
+    {
+      "player": "Mathias Jensen",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 26,
+      "club": "Brentford",
+      "birth_year": 1996
+    },
+    {
+      "player": "MathÃ­as Olivera",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 25,
+      "club": "Napoli",
+      "birth_year": 1997
+    },
+    {
+      "player": "Matt Turner",
+      "position": "GK",
+      "team": "United States",
+      "age": 28,
+      "club": "Arsenal",
+      "birth_year": 1994
+    },
+    {
+      "player": "Matthias Ginter",
+      "position": "DF",
+      "team": "Germany",
+      "age": 28,
+      "club": "Freiburg",
+      "birth_year": 1994
+    },
+    {
+      "player": "Matthijs de Ligt",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 23,
+      "club": "Bayern Munich",
+      "birth_year": 1999
+    },
+    {
+      "player": "Matty Cash",
+      "position": "DF",
+      "team": "Poland",
+      "age": 25,
+      "club": "Aston Villa",
+      "birth_year": 1997
+    },
+    {
+      "player": "MattÃ©o Guendouzi",
+      "position": "FW",
+      "team": "France",
+      "age": 23,
+      "club": "Marseille",
+      "birth_year": 1999
+    },
+    {
+      "player": "MatÃ­as Vecino",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 31,
+      "club": "Lazio",
+      "birth_year": 1991
+    },
+    {
+      "player": "MatÃ­as ViÃ±a",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 25,
+      "club": "Roma",
+      "birth_year": 1997
+    },
+    {
+      "player": "Maxi GÃ³mez",
+      "position": "FW",
+      "team": "Uruguay",
+      "age": 26,
+      "club": "Trabzonspor",
+      "birth_year": 1996
+    },
+    {
+      "player": "Maya Yoshida",
+      "position": "DF",
+      "team": "Japan",
+      "age": 34,
+      "club": "Schalke 04",
+      "birth_year": 1988
+    },
+    {
+      "player": "Mehdi Taremi",
+      "position": "FW",
+      "team": "IR Iran",
+      "age": 30,
+      "club": "Porto",
+      "birth_year": 1992
+    },
+    {
+      "player": "Mehdi Torabi",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 28,
+      "club": "Persepolis",
+      "birth_year": 1994
+    },
+    {
+      "player": "Memphis",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 28,
+      "club": "Barcelona",
+      "birth_year": 1994
+    },
+    {
+      "player": "Meshaal Barsham",
+      "position": "GK",
+      "team": "Qatar",
+      "age": 24,
+      "club": "Al Sadd SC",
+      "birth_year": 1998
+    },
+    {
+      "player": "Michael Estrada",
+      "position": "FW",
+      "team": "Ecuador",
+      "age": 26,
+      "club": "Cruz Azul",
+      "birth_year": 1996
+    },
+    {
+      "player": "MichaÅ‚ SkÃ³raÅ›",
+      "position": "MF",
+      "team": "Poland",
+      "age": 22,
+      "club": "Lech PoznaÅ„",
+      "birth_year": 2000
+    },
+    {
+      "player": "Michel Aebischer",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 25,
+      "club": "Bologna",
+      "birth_year": 1997
+    },
+    {
+      "player": "Michy Batshuayi",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 29,
+      "club": "FenerbahÃ§e",
+      "birth_year": 1993
+    },
+    {
+      "player": "Miki Yamane",
+      "position": "DF",
+      "team": "Japan",
+      "age": 28,
+      "club": "Kawa Frontale",
+      "birth_year": 1993
+    },
+    {
+      "player": "Mikkel Damsgaard",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 22,
+      "club": "Brentford",
+      "birth_year": 2000
+    },
+    {
+      "player": "Milad Mohammadi",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 29,
+      "club": "AEK Athens",
+      "birth_year": 1993
+    },
+    {
+      "player": "Milan Borjan",
+      "position": "GK",
+      "team": "Canada",
+      "age": 35,
+      "club": "Red Star",
+      "birth_year": 1987
+    },
+    {
+      "player": "MiloÅ¡ Degenek",
+      "position": "DF",
+      "team": "Australia",
+      "age": 28,
+      "club": "Columbus Crew",
+      "birth_year": 1994
+    },
+    {
+      "player": "MiloÅ¡ VeljkoviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 27,
+      "club": "Werder Bremen",
+      "birth_year": 1995
+    },
+    {
+      "player": "Mislav OrÅ¡iÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 29,
+      "club": "Dinamo Zagreb",
+      "birth_year": 1992
+    },
+    {
+      "player": "Mitchell Duke",
+      "position": "FW",
+      "team": "Australia",
+      "age": 31,
+      "club": "Fagi Okayama",
+      "birth_year": 1991
+    },
+    {
+      "player": "Mohamed Ali Ben Romdhane",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 23,
+      "club": "EspÃ©rance de Tunis",
+      "birth_year": 1999
+    },
+    {
+      "player": "Mohamed DrÃ¤ger",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 26,
+      "club": "Luzern",
+      "birth_year": 1996
+    },
+    {
+      "player": "Mohamed Kanno",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 28,
+      "club": "Al-Hilal",
+      "birth_year": 1994
+    },
+    {
+      "player": "Mohammed Al-Breik",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 30,
+      "club": "Al-Hilal",
+      "birth_year": 1992
+    },
+    {
+      "player": "Mohammed Al-Owais",
+      "position": "GK",
+      "team": "Saudi Arabia",
+      "age": 31,
+      "club": "Al-Hilal",
+      "birth_year": 1991
+    },
+    {
+      "player": "Mohammed Muntari",
+      "position": "FW",
+      "team": "Qatar",
+      "age": 28,
+      "club": "Al Duhail SC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Mohammed Salisu",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 23,
+      "club": "Southampton",
+      "birth_year": 1999
+    },
+    {
+      "player": "Mohammed Waad",
+      "position": "MF",
+      "team": "Qatar",
+      "age": 23,
+      "club": "Al Sadd SC",
+      "birth_year": 1999
+    },
+    {
+      "player": "MoisÃ©s Caicedo",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 21,
+      "club": "Brighton",
+      "birth_year": 2001
+    },
+    {
+      "player": "Montassar Talbi",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 24,
+      "club": "Lorient",
+      "birth_year": 1998
+    },
+    {
+      "player": "Morteza Pouraliganji",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 30,
+      "club": "Persepolis",
+      "birth_year": 1992
+    },
+    {
+      "player": "Moumi Ngamaleu",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 28,
+      "club": "Dynamo Mosc",
+      "birth_year": 1994
+    },
+    {
+      "player": "Munir",
+      "position": "GK",
+      "team": "Morocco",
+      "age": 33,
+      "club": "Al-Wehda",
+      "birth_year": 1989
+    },
+    {
+      "player": "Musab Kheder",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 29,
+      "club": "Al Sadd SC",
+      "birth_year": 1993
+    },
+    {
+      "player": "Na Sang-ho",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 26,
+      "club": "FC Seoul",
+      "birth_year": 1996
+    },
+    {
+      "player": "Nader Ghandri",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 27,
+      "club": "Club Africain",
+      "birth_year": 1995
+    },
+    {
+      "player": "Nahuel Molina",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 24,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1998
+    },
+    {
+      "player": "Nampalys Mendy",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 30,
+      "club": "Leicester City",
+      "birth_year": 1992
+    },
+    {
+      "player": "Nasser Al-Dawsari",
+      "position": "FW",
+      "team": "Saudi Arabia",
+      "age": 23,
+      "club": "Al-Hilal",
+      "birth_year": 1998
+    },
+    {
+      "player": "Nathan AkÃ©",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 27,
+      "club": "Manchester City",
+      "birth_year": 1995
+    },
+    {
+      "player": "Nathaniel Atkinson",
+      "position": "DF",
+      "team": "Australia",
+      "age": 23,
+      "club": "Hearts",
+      "birth_year": 1999
+    },
+    {
+      "player": "Nawaf Al Abed",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 32,
+      "club": "Al-Shabab",
+      "birth_year": 1990
+    },
+    {
+      "player": "Nayef Aguerd",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 26,
+      "club": "West Ham",
+      "birth_year": 1996
+    },
+    {
+      "player": "NaÃ¯m Sliti",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 30,
+      "club": "Al-Ettifaq",
+      "birth_year": 1992
+    },
+    {
+      "player": "Neco Williams",
+      "position": "DF",
+      "team": "Wales",
+      "age": 21,
+      "club": "Nott'ham Forest",
+      "birth_year": 2001
+    },
+    {
+      "player": "Nemanja Gudelj",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 31,
+      "club": "Sevilla",
+      "birth_year": 1991
+    },
+    {
+      "player": "Nemanja MaksimoviÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 27,
+      "club": "Getafe",
+      "birth_year": 1995
+    },
+    {
+      "player": "Nemanja RadonjiÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 26,
+      "club": "Torino",
+      "birth_year": 1996
+    },
+    {
+      "player": "Neymar",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 30,
+      "club": "Paris S-G",
+      "birth_year": 1992
+    },
+    {
+      "player": "Niclas FÃ¼llkrug",
+      "position": "FW",
+      "team": "Germany",
+      "age": 29,
+      "club": "Werder Bremen",
+      "birth_year": 1993
+    },
+    {
+      "player": "Nico Elvedi",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 26,
+      "club": "M'Gladbach",
+      "birth_year": 1996
+    },
+    {
+      "player": "Nico Schlotterbeck",
+      "position": "DF",
+      "team": "Germany",
+      "age": 23,
+      "club": "Dortmund",
+      "birth_year": 1999
+    },
+    {
+      "player": "Nico Williams",
+      "position": "FW",
+      "team": "Spain",
+      "age": 20,
+      "club": "Athletic Club",
+      "birth_year": 2002
+    },
+    {
+      "player": "Nicola Zalewski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 20,
+      "club": "Roma",
+      "birth_year": 2002
+    },
+    {
+      "player": "Nicolas Jackson",
+      "position": "FW",
+      "team": "Senegal",
+      "age": 21,
+      "club": "Villarreal",
+      "birth_year": 2001
+    },
+    {
+      "player": "Nicolas Nkoulou",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 32,
+      "club": "Aris",
+      "birth_year": 1990
+    },
+    {
+      "player": "NicolÃ¡s De La Cruz",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 25,
+      "club": "River Plate",
+      "birth_year": 1997
+    },
+    {
+      "player": "NicolÃ¡s Otamendi",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 34,
+      "club": "Benfica",
+      "birth_year": 1988
+    },
+    {
+      "player": "NicolÃ¡s Tagliafico",
+      "position": "DF",
+      "team": "Argentina",
+      "age": 30,
+      "club": "Lyon",
+      "birth_year": 1992
+    },
+    {
+      "player": "Niklas SÃ¼le",
+      "position": "DF",
+      "team": "Germany",
+      "age": 27,
+      "club": "Dortmund",
+      "birth_year": 1995
+    },
+    {
+      "player": "Nikola MilenkoviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 25,
+      "club": "Fiorentina",
+      "birth_year": 1997
+    },
+    {
+      "player": "Nikola VlaÅ¡iÄ‡",
+      "position": "FW",
+      "team": "Croatia",
+      "age": 25,
+      "club": "Torino",
+      "birth_year": 1997
+    },
+    {
+      "player": "Noa Lang",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 23,
+      "club": "Club Brugge",
+      "birth_year": 1999
+    },
+    {
+      "player": "Noah Okafor",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 22,
+      "club": "RB Salzburg",
+      "birth_year": 2000
+    },
+    {
+      "player": "Nouhou Tolo",
+      "position": "DF",
+      "team": "Cameroon",
+      "age": 25,
+      "club": "Seattle",
+      "birth_year": 1997
+    },
+    {
+      "player": "Noussair Mazraoui",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 25,
+      "club": "Bayern Munich",
+      "birth_year": 1997
+    },
+    {
+      "player": "Nuno Mendes",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 20,
+      "club": "Paris S-G",
+      "birth_year": 2002
+    },
+    {
+      "player": "NÃ©stor Araujo",
+      "position": "DF",
+      "team": "Mexico",
+      "age": 31,
+      "club": "AmÃ©rica",
+      "birth_year": 1991
+    },
+    {
+      "player": "Olivier Giroud",
+      "position": "FW",
+      "team": "France",
+      "age": 36,
+      "club": "Milan",
+      "birth_year": 1986
+    },
+    {
+      "player": "Olivier Ntcham",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 26,
+      "club": "Swansea City",
+      "birth_year": 1996
+    },
+    {
+      "player": "OrbelÃ­n Pineda",
+      "position": "MF",
+      "team": "Mexico",
+      "age": 26,
+      "club": "AEK Athens",
+      "birth_year": 1996
+    },
+    {
+      "player": "Osman Bukari",
+      "position": "MF",
+      "team": "Ghana",
+      "age": 24,
+      "club": "Red Star",
+      "birth_year": 1998
+    },
+    {
+      "player": "OtÃ¡vio",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 27,
+      "club": "Porto",
+      "birth_year": 1995
+    },
+    {
+      "player": "Ousmane DembÃ©lÃ©",
+      "position": "FW",
+      "team": "France",
+      "age": 25,
+      "club": "Barcelona",
+      "birth_year": 1997
+    },
+    {
+      "player": "Pablo Sarabia",
+      "position": "FW",
+      "team": "Spain",
+      "age": 30,
+      "club": "Paris S-G",
+      "birth_year": 1992
+    },
+    {
+      "player": "Paik Seung-ho",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 25,
+      "club": "Jeonbuk",
+      "birth_year": 1997
+    },
+    {
+      "player": "Pape Abou CissÃ©",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 27,
+      "club": "Olympiacos",
+      "birth_year": 1995
+    },
+    {
+      "player": "Pape Gueye",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 23,
+      "club": "Marseille",
+      "birth_year": 1999
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 20,
+      "club": "Tottenham",
+      "birth_year": 2002
+    },
+    {
+      "player": "Papu GÃ³mez",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 34,
+      "club": "Sevilla",
+      "birth_year": 1988
+    },
+    {
+      "player": "PathÃ© Ciss",
+      "position": "MF",
+      "team": "Senegal",
+      "age": 28,
+      "club": "Rayo Vallecano",
+      "birth_year": 1994
+    },
+    {
+      "player": "Pau Torres",
+      "position": "DF",
+      "team": "Spain",
+      "age": 25,
+      "club": "Villarreal",
+      "birth_year": 1997
+    },
+    {
+      "player": "Paulo Dybala",
+      "position": "FW",
+      "team": "Argentina",
+      "age": 29,
+      "club": "Roma",
+      "birth_year": 1993
+    },
+    {
+      "player": "Pedri",
+      "position": "MF",
+      "team": "Spain",
+      "age": 20,
+      "club": "Barcelona",
+      "birth_year": 2002
+    },
+    {
+      "player": "Pedro",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 25,
+      "club": "Flamengo",
+      "birth_year": 1997
+    },
+    {
+      "player": "Pepe",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 39,
+      "club": "Porto",
+      "birth_year": 1983
+    },
+    {
+      "player": "Pervis EstupiÃ±Ã¡n",
+      "position": "DF",
+      "team": "Ecuador",
+      "age": 24,
+      "club": "Brighton",
+      "birth_year": 1998
+    },
+    {
+      "player": "Phil Foden",
+      "position": "FW",
+      "team": "England",
+      "age": 22,
+      "club": "Manchester City",
+      "birth_year": 2000
+    },
+    {
+      "player": "Piero HincapiÃ©",
+      "position": "DF",
+      "team": "Ecuador",
+      "age": 20,
+      "club": "Leverkusen",
+      "birth_year": 2002
+    },
+    {
+      "player": "Pierre HÃ¸jbjerg",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 27,
+      "club": "Tottenham",
+      "birth_year": 1995
+    },
+    {
+      "player": "Pierre Kunde",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 27,
+      "club": "Olympiacos",
+      "birth_year": 1995
+    },
+    {
+      "player": "Piotr ZieliÅ„ski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 28,
+      "club": "Napoli",
+      "birth_year": 1994
+    },
+    {
+      "player": "PrzemysÅ‚aw Frankowski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 27,
+      "club": "Lens",
+      "birth_year": 1995
+    },
+    {
+      "player": "Rafael LeÃ£o",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 23,
+      "club": "Milan",
+      "birth_year": 1999
+    },
+    {
+      "player": "Raheem Sterling",
+      "position": "FW",
+      "team": "England",
+      "age": 28,
+      "club": "Chelsea",
+      "birth_year": 1994
+    },
+    {
+      "player": "Ramin Rezaeian",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 32,
+      "club": "Sepahan",
+      "birth_year": 1990
+    },
+    {
+      "player": "Randal Kolo Muani",
+      "position": "FW",
+      "team": "France",
+      "age": 24,
+      "club": "Eint Frankfurt",
+      "birth_year": 1998
+    },
+    {
+      "player": "RaphaÃ«l Guerreiro",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 28,
+      "club": "Dortmund",
+      "birth_year": 1993
+    },
+    {
+      "player": "RaphaÃ«l Varane",
+      "position": "DF",
+      "team": "France",
+      "age": 29,
+      "club": "Manchester Utd",
+      "birth_year": 1993
+    },
+    {
+      "player": "Raphinha",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 26,
+      "club": "Barcelona",
+      "birth_year": 1996
+    },
+    {
+      "player": "Rasmus Nissen",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 25,
+      "club": "Leeds United",
+      "birth_year": 1997
+    },
+    {
+      "player": "RaÃºl JimÃ©nez",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 31,
+      "club": "Wolves",
+      "birth_year": 1991
+    },
+    {
+      "player": "Remo Freuler",
+      "position": "MF",
+      "team": "Switzerland",
+      "age": 30,
+      "club": "Nott'ham Forest",
+      "birth_year": 1992
+    },
+    {
+      "player": "Renato Steffen",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 31,
+      "club": "Lugano",
+      "birth_year": 1991
+    },
+    {
+      "player": "Ricardo Horta",
+      "position": "FW",
+      "team": "Portugal",
+      "age": 28,
+      "club": "Braga",
+      "birth_year": 1994
+    },
+    {
+      "player": "Ricardo RodrÃ­guez",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 30,
+      "club": "Torino",
+      "birth_year": 1992
+    },
+    {
+      "player": "Richarlison",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 25,
+      "club": "Tottenham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Richie Laryea",
+      "position": "DF",
+      "team": "Canada",
+      "age": 27,
+      "club": "Toronto FC",
+      "birth_year": 1995
+    },
+    {
+      "player": "Riley McGree",
+      "position": "FW",
+      "team": "Australia",
+      "age": 24,
+      "club": "Middlesbrough",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ritsu Doan",
+      "position": "FW",
+      "team": "Japan",
+      "age": 24,
+      "club": "Freiburg",
+      "birth_year": 1998
+    },
+    {
+      "player": "Riyadh Sharahili",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 29,
+      "club": "Abha",
+      "birth_year": 1993
+    },
+    {
+      "player": "Roan Wilson",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 20,
+      "club": "Municipal Grecia",
+      "birth_year": 2002
+    },
+    {
+      "player": "Robert Lewandowski",
+      "position": "FW",
+      "team": "Poland",
+      "age": 34,
+      "club": "Barcelona",
+      "birth_year": 1988
+    },
+    {
+      "player": "Robert Skov",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 26,
+      "club": "Hoffenheim",
+      "birth_year": 1996
+    },
+    {
+      "player": "Roberto Alvarado",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 24,
+      "club": "Guadalajara",
+      "birth_year": 1998
+    },
+    {
+      "player": "Rodri",
+      "position": "DF",
+      "team": "Spain",
+      "age": 26,
+      "club": "Manchester City",
+      "birth_year": 1996
+    },
+    {
+      "player": "Rodrigo Bentancur",
+      "position": "MF",
+      "team": "Uruguay",
+      "age": 25,
+      "club": "Tottenham",
+      "birth_year": 1997
+    },
+    {
+      "player": "Rodrigo De Paul",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 28,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1994
+    },
+    {
+      "player": "Rodrygo",
+      "position": "MF",
+      "team": "Brazil",
+      "age": 21,
+      "club": "Real Madrid",
+      "birth_year": 2001
+    },
+    {
+      "player": "Rogelio Funes Mori",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 31,
+      "club": "Monterrey",
+      "birth_year": 1991
+    },
+    {
+      "player": "Romain SaÃ¯ss",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 32,
+      "club": "BeÅŸiktaÅŸ",
+      "birth_year": 1990
+    },
+    {
+      "player": "Romario Ibarra",
+      "position": "MF",
+      "team": "Ecuador",
+      "age": 28,
+      "club": "Pachuca",
+      "birth_year": 1994
+    },
+    {
+      "player": "Romelu Lukaku",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 29,
+      "club": "Inter",
+      "birth_year": 1993
+    },
+    {
+      "player": "Roozbeh Cheshmi",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 29,
+      "club": "Esteghlal",
+      "birth_year": 1993
+    },
+    {
+      "player": "Ruben Vargas",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 24,
+      "club": "Augsburg",
+      "birth_year": 1998
+    },
+    {
+      "player": "Rubin Colwill",
+      "position": "MF",
+      "team": "Wales",
+      "age": 20,
+      "club": "Cardiff City",
+      "birth_year": 2002
+    },
+    {
+      "player": "RÃ³-RÃ³",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Sadd SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "RÃ³nald Matarrita",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 28,
+      "club": "FC Cincinnati",
+      "birth_year": 1994
+    },
+    {
+      "player": "RÃºben Dias",
+      "position": "DF",
+      "team": "Portugal",
+      "age": 25,
+      "club": "Manchester City",
+      "birth_year": 1997
+    },
+    {
+      "player": "RÃºben Neves",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 25,
+      "club": "Wolves",
+      "birth_year": 1997
+    },
+    {
+      "player": "Saad Al Sheeb",
+      "position": "GK",
+      "team": "Qatar",
+      "age": 32,
+      "club": "Al Sadd SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Sadegh Moharrami",
+      "position": "DF",
+      "team": "IR Iran",
+      "age": 26,
+      "club": "Dinamo Zagreb",
+      "birth_year": 1996
+    },
+    {
+      "player": "Saeid Ezatolahi",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 26,
+      "club": "Vejle BK",
+      "birth_year": 1996
+    },
+    {
+      "player": "Saleh Al-Shehri",
+      "position": "FW",
+      "team": "Saudi Arabia",
+      "age": 29,
+      "club": "Al-Hilal",
+      "birth_year": 1993
+    },
+    {
+      "player": "Salem Al-Dawsari",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 31,
+      "club": "Al-Hilal",
+      "birth_year": 1991
+    },
+    {
+      "player": "Salis Abdul Samed",
+      "position": "MF",
+      "team": "Ghana",
+      "age": 22,
+      "club": "Lens",
+      "birth_year": 2000
+    },
+    {
+      "player": "Salman Al-Faraj",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 33,
+      "club": "Al-Hilal",
+      "birth_year": 1989
+    },
+    {
+      "player": "Sam Adekugbe",
+      "position": "DF",
+      "team": "Canada",
+      "age": 27,
+      "club": "Hatayspor",
+      "birth_year": 1995
+    },
+    {
+      "player": "Saman Ghoddos",
+      "position": "MF",
+      "team": "IR Iran",
+      "age": 29,
+      "club": "Brentford",
+      "birth_year": 1993
+    },
+    {
+      "player": "Sami Al-Najei",
+      "position": "MF",
+      "team": "Saudi Arabia",
+      "age": 25,
+      "club": "Al-Nassr",
+      "birth_year": 1997
+    },
+    {
+      "player": "Samuel Oum Gouet",
+      "position": "MF",
+      "team": "Cameroon",
+      "age": 25,
+      "club": "Mechelen",
+      "birth_year": 1997
+    },
+    {
+      "player": "Sardar Azmoun",
+      "position": "FW",
+      "team": "IR Iran",
+      "age": 27,
+      "club": "Leverkusen",
+      "birth_year": 1995
+    },
+    {
+      "player": "Saud Abdulhamid",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 23,
+      "club": "Al-Hilal",
+      "birth_year": 1999
+    },
+    {
+      "player": "SaÅ¡a LukiÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 26,
+      "club": "Torino",
+      "birth_year": 1996
+    },
+    {
+      "player": "Sebastian SzymaÅ„ski",
+      "position": "MF",
+      "team": "Poland",
+      "age": 23,
+      "club": "Feyenoord",
+      "birth_year": 1999
+    },
+    {
+      "player": "SebastiÃ¡n Coates",
+      "position": "DF",
+      "team": "Uruguay",
+      "age": 32,
+      "club": "Sporting CP",
+      "birth_year": 1990
+    },
+    {
+      "player": "Selim Amallah",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 26,
+      "club": "Standard LiÃ¨ge",
+      "birth_year": 1996
+    },
+    {
+      "player": "Serge Gnabry",
+      "position": "FW",
+      "team": "Germany",
+      "age": 27,
+      "club": "Bayern Munich",
+      "birth_year": 1995
+    },
+    {
+      "player": "Sergej MilinkoviÄ‡-SaviÄ‡",
+      "position": "MF",
+      "team": "Serbia",
+      "age": 27,
+      "club": "Lazio",
+      "birth_year": 1995
+    },
+    {
+      "player": "Sergio Busquets",
+      "position": "MF",
+      "team": "Spain",
+      "age": 34,
+      "club": "Barcelona",
+      "birth_year": 1988
+    },
+    {
+      "player": "Sergio Rochet",
+      "position": "GK",
+      "team": "Uruguay",
+      "age": 29,
+      "club": "Nacional",
+      "birth_year": 1993
+    },
+    {
+      "player": "SergiÃ±o Dest",
+      "position": "DF",
+      "team": "United States",
+      "age": 22,
+      "club": "Milan",
+      "birth_year": 2000
+    },
+    {
+      "player": "Shaquell Moore",
+      "position": "DF",
+      "team": "United States",
+      "age": 26,
+      "club": "Nashville",
+      "birth_year": 1996
+    },
+    {
+      "player": "Shogo Taniguchi",
+      "position": "DF",
+      "team": "Japan",
+      "age": 31,
+      "club": "Kawa Frontale",
+      "birth_year": 1991
+    },
+    {
+      "player": "ShÅ«ichi Gonda",
+      "position": "GK",
+      "team": "Japan",
+      "age": 33,
+      "club": "S-Pulse",
+      "birth_year": 1989
+    },
+    {
+      "player": "Silvan Widmer",
+      "position": "DF",
+      "team": "Switzerland",
+      "age": 29,
+      "club": "Mainz 05",
+      "birth_year": 1993
+    },
+    {
+      "player": "Simon KjÃ¦r",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 33,
+      "club": "Milan",
+      "birth_year": 1989
+    },
+    {
+      "player": "Sofiane Boufal",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 29,
+      "club": "Angers",
+      "birth_year": 1993
+    },
+    {
+      "player": "Sofyan Amrabat",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 26,
+      "club": "Fiorentina",
+      "birth_year": 1996
+    },
+    {
+      "player": "Son Heung-min",
+      "position": "FW",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Tottenham",
+      "birth_year": 1992
+    },
+    {
+      "player": "Son Jun-ho",
+      "position": "MF",
+      "team": "Korea Republic",
+      "age": 30,
+      "club": "Shandong Lunen",
+      "birth_year": 1992
+    },
+    {
+      "player": "Sorba Thomas",
+      "position": "MF",
+      "team": "Wales",
+      "age": 23,
+      "club": "Huddersfield",
+      "birth_year": 1999
+    },
+    {
+      "player": "SrÄ‘an BabiÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 26,
+      "club": "AlmerÃ­a",
+      "birth_year": 1996
+    },
+    {
+      "player": "Stefan MitroviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 32,
+      "club": "Getafe",
+      "birth_year": 1990
+    },
+    {
+      "player": "Stephen EustÃ¡quio",
+      "position": "MF",
+      "team": "Canada",
+      "age": 25,
+      "club": "Porto",
+      "birth_year": 1996
+    },
+    {
+      "player": "Steve Mandanda",
+      "position": "GK",
+      "team": "France",
+      "age": 37,
+      "club": "Rennes",
+      "birth_year": 1985
+    },
+    {
+      "player": "Steven Berghuis",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 30,
+      "club": "Ajax",
+      "birth_year": 1991
+    },
+    {
+      "player": "Steven Bergwijn",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 25,
+      "club": "Ajax",
+      "birth_year": 1997
+    },
+    {
+      "player": "Steven VitÃ³ria",
+      "position": "DF",
+      "team": "Canada",
+      "age": 35,
+      "club": "Chaves",
+      "birth_year": 1987
+    },
+    {
+      "player": "Strahinja PavloviÄ‡",
+      "position": "DF",
+      "team": "Serbia",
+      "age": 21,
+      "club": "RB Salzburg",
+      "birth_year": 2001
+    },
+    {
+      "player": "Sultan Al-Ghanam",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 28,
+      "club": "Al-Nassr",
+      "birth_year": 1994
+    },
+    {
+      "player": "Taha Yassine Khenissi",
+      "position": "FW",
+      "team": "Tunisia",
+      "age": 30,
+      "club": "Kuwait SC",
+      "birth_year": 1992
+    },
+    {
+      "player": "Tajon Buchanan",
+      "position": "MF",
+      "team": "Canada",
+      "age": 23,
+      "club": "Club Brugge",
+      "birth_year": 1999
+    },
+    {
+      "player": "Takefusa Kubo",
+      "position": "FW",
+      "team": "Japan",
+      "age": 21,
+      "club": "Real Sociedad",
+      "birth_year": 2001
+    },
+    {
+      "player": "Takehiro Tomiyasu",
+      "position": "DF",
+      "team": "Japan",
+      "age": 24,
+      "club": "Arsenal",
+      "birth_year": 1998
+    },
+    {
+      "player": "Takuma Asano",
+      "position": "FW",
+      "team": "Japan",
+      "age": 28,
+      "club": "Bochum",
+      "birth_year": 1994
+    },
+    {
+      "player": "Takumi Minamino",
+      "position": "FW",
+      "team": "Japan",
+      "age": 27,
+      "club": "Monaco",
+      "birth_year": 1995
+    },
+    {
+      "player": "Tarek Salman",
+      "position": "DF",
+      "team": "Qatar",
+      "age": 25,
+      "club": "Al Sadd SC",
+      "birth_year": 1997
+    },
+    {
+      "player": "Tariq Lamptey",
+      "position": "DF",
+      "team": "Ghana",
+      "age": 22,
+      "club": "Brighton",
+      "birth_year": 2000
+    },
+    {
+      "player": "Teun Koopmeiners",
+      "position": "MF",
+      "team": "Netherlands",
+      "age": 24,
+      "club": "Atalanta",
+      "birth_year": 1998
+    },
+    {
+      "player": "Theo HernÃ¡ndez",
+      "position": "DF",
+      "team": "France",
+      "age": 25,
+      "club": "Milan",
+      "birth_year": 1997
+    },
+    {
+      "player": "Thiago Almada",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 21,
+      "club": "Atlanta Utd",
+      "birth_year": 2001
+    },
+    {
+      "player": "Thiago Silva",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 38,
+      "club": "Chelsea",
+      "birth_year": 1984
+    },
+    {
+      "player": "Thibaut Courtois",
+      "position": "GK",
+      "team": "Belgium",
+      "age": 30,
+      "club": "Real Madrid",
+      "birth_year": 1992
+    },
+    {
+      "player": "Thilo Kehrer",
+      "position": "DF",
+      "team": "Germany",
+      "age": 26,
+      "club": "West Ham",
+      "birth_year": 1996
+    },
+    {
+      "player": "Thomas Delaney",
+      "position": "MF",
+      "team": "Denmark",
+      "age": 31,
+      "club": "Sevilla",
+      "birth_year": 1991
+    },
+    {
+      "player": "Thomas Meunier",
+      "position": "DF",
+      "team": "Belgium",
+      "age": 31,
+      "club": "Dortmund",
+      "birth_year": 1991
+    },
+    {
+      "player": "Thomas MÃ¼ller",
+      "position": "FW",
+      "team": "Germany",
+      "age": 33,
+      "club": "Bayern Munich",
+      "birth_year": 1989
+    },
+    {
+      "player": "Thomas Partey",
+      "position": "MF",
+      "team": "Ghana",
+      "age": 29,
+      "club": "Arsenal",
+      "birth_year": 1993
+    },
+    {
+      "player": "Thorgan Hazard",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 29,
+      "club": "Dortmund",
+      "birth_year": 1993
+    },
+    {
+      "player": "Tim Ream",
+      "position": "DF",
+      "team": "United States",
+      "age": 35,
+      "club": "Fulham",
+      "birth_year": 1987
+    },
+    {
+      "player": "Timothy Castagne",
+      "position": "DF",
+      "team": "Belgium",
+      "age": 27,
+      "club": "Leicester City",
+      "birth_year": 1995
+    },
+    {
+      "player": "Timothy Weah",
+      "position": "FW",
+      "team": "United States",
+      "age": 22,
+      "club": "Lille",
+      "birth_year": 2000
+    },
+    {
+      "player": "Toby Alderweireld",
+      "position": "DF",
+      "team": "Belgium",
+      "age": 33,
+      "club": "Antwerp",
+      "birth_year": 1989
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "position": "DF",
+      "team": "England",
+      "age": 24,
+      "club": "Liverpool",
+      "birth_year": 1998
+    },
+    {
+      "player": "Tyler Adams",
+      "position": "MF",
+      "team": "United States",
+      "age": 23,
+      "club": "Leeds United",
+      "birth_year": 1999
+    },
+    {
+      "player": "Unai SimÃ³n",
+      "position": "GK",
+      "team": "Spain",
+      "age": 25,
+      "club": "Athletic Club",
+      "birth_year": 1997
+    },
+    {
+      "player": "Uriel Antuna",
+      "position": "FW",
+      "team": "Mexico",
+      "age": 25,
+      "club": "Cruz Azul",
+      "birth_year": 1997
+    },
+    {
+      "player": "Vanja MilinkoviÄ‡-SaviÄ‡",
+      "position": "GK",
+      "team": "Serbia",
+      "age": 25,
+      "club": "Torino",
+      "birth_year": 1997
+    },
+    {
+      "player": "Victor Nelsson",
+      "position": "DF",
+      "team": "Denmark",
+      "age": 24,
+      "club": "Galatasaray",
+      "birth_year": 1998
+    },
+    {
+      "player": "Vincent Aboubakar",
+      "position": "FW",
+      "team": "Cameroon",
+      "age": 30,
+      "club": "Al-Nassr",
+      "birth_year": 1992
+    },
+    {
+      "player": "Vincent Janssen",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 28,
+      "club": "Antwerp",
+      "birth_year": 1994
+    },
+    {
+      "player": "Vinicius JÃºnior",
+      "position": "FW",
+      "team": "Brazil",
+      "age": 22,
+      "club": "Real Madrid",
+      "birth_year": 2000
+    },
+    {
+      "player": "Virgil van Dijk",
+      "position": "DF",
+      "team": "Netherlands",
+      "age": 31,
+      "club": "Liverpool",
+      "birth_year": 1991
+    },
+    {
+      "player": "Vitinha",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 22,
+      "club": "Paris S-G",
+      "birth_year": 2000
+    },
+    {
+      "player": "Wahbi Khazri",
+      "position": "FW",
+      "team": "Tunisia",
+      "age": 31,
+      "club": "Montpellier",
+      "birth_year": 1991
+    },
+    {
+      "player": "Wajdi Kechrida",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 27,
+      "club": "Atromitos",
+      "birth_year": 1995
+    },
+    {
+      "player": "Walid Cheddira",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 24,
+      "club": "Bari",
+      "birth_year": 1998
+    },
+    {
+      "player": "Walker Zimmerman",
+      "position": "DF",
+      "team": "United States",
+      "age": 29,
+      "club": "Nashville",
+      "birth_year": 1993
+    },
+    {
+      "player": "Wataru Endo",
+      "position": "MF",
+      "team": "Japan",
+      "age": 29,
+      "club": "Stuttgart",
+      "birth_year": 1993
+    },
+    {
+      "player": "Wayne Hennessey",
+      "position": "GK",
+      "team": "Wales",
+      "age": 35,
+      "club": "Nott'ham Forest",
+      "birth_year": 1987
+    },
+    {
+      "player": "Weston McKennie",
+      "position": "MF",
+      "team": "United States",
+      "age": 24,
+      "club": "Juventus",
+      "birth_year": 1998
+    },
+    {
+      "player": "William Carvalho",
+      "position": "MF",
+      "team": "Portugal",
+      "age": 30,
+      "club": "Betis",
+      "birth_year": 1992
+    },
+    {
+      "player": "William Saliba",
+      "position": "DF",
+      "team": "France",
+      "age": 21,
+      "club": "Arsenal",
+      "birth_year": 2001
+    },
+    {
+      "player": "Wojciech SzczÄ™sny",
+      "position": "GK",
+      "team": "Poland",
+      "age": 32,
+      "club": "Juventus",
+      "birth_year": 1990
+    },
+    {
+      "player": "Wout Weghorst",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 30,
+      "club": "BeÅŸiktaÅŸ",
+      "birth_year": 1992
+    },
+    {
+      "player": "WÃ©verton",
+      "position": "GK",
+      "team": "Brazil",
+      "age": 35,
+      "club": "Palmeiras",
+      "birth_year": 1987
+    },
+    {
+      "player": "Xavi Simons",
+      "position": "FW",
+      "team": "Netherlands",
+      "age": 19,
+      "club": "PSV Eindhoven",
+      "birth_year": 2003
+    },
+    {
+      "player": "Xherdan Shaqiri",
+      "position": "FW",
+      "team": "Switzerland",
+      "age": 31,
+      "club": "Chicago Fire",
+      "birth_year": 1991
+    },
+    {
+      "player": "Yahya Attiat Allah",
+      "position": "DF",
+      "team": "Morocco",
+      "age": 27,
+      "club": "Wydad Casablanca",
+      "birth_year": 1995
+    },
+    {
+      "player": "Yahya Jabrane",
+      "position": "MF",
+      "team": "Morocco",
+      "age": 31,
+      "club": "Wydad Casablanca",
+      "birth_year": 1991
+    },
+    {
+      "player": "Yann Sommer",
+      "position": "GK",
+      "team": "Switzerland",
+      "age": 34,
+      "club": "M'Gladbach",
+      "birth_year": 1988
+    },
+    {
+      "player": "Yannick Carrasco",
+      "position": "FW",
+      "team": "Belgium",
+      "age": 29,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1993
+    },
+    {
+      "player": "Yasser Al-Shahrani",
+      "position": "DF",
+      "team": "Saudi Arabia",
+      "age": 30,
+      "club": "Al-Hilal",
+      "birth_year": 1992
+    },
+    {
+      "player": "Yassine Bounou",
+      "position": "GK",
+      "team": "Morocco",
+      "age": 31,
+      "club": "Sevilla",
+      "birth_year": 1991
+    },
+    {
+      "player": "Yassine Meriah",
+      "position": "DF",
+      "team": "Tunisia",
+      "age": 29,
+      "club": "EspÃ©rance de Tunis",
+      "birth_year": 1993
+    },
+    {
+      "player": "Yeltsin Tejeda",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 30,
+      "club": "Club Sport Herediano",
+      "birth_year": 1992
+    },
+    {
+      "player": "Youri Tielemans",
+      "position": "MF",
+      "team": "Belgium",
+      "age": 25,
+      "club": "Leicester City",
+      "birth_year": 1997
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 25,
+      "club": "Sevilla",
+      "birth_year": 1997
+    },
+    {
+      "player": "Youssef Msakni",
+      "position": "MF",
+      "team": "Tunisia",
+      "age": 32,
+      "club": "Al-Arabi SC",
+      "birth_year": 1990
+    },
+    {
+      "player": "Youssouf Fofana",
+      "position": "MF",
+      "team": "France",
+      "age": 23,
+      "club": "Monaco",
+      "birth_year": 1999
+    },
+    {
+      "player": "Youssouf Sabaly",
+      "position": "DF",
+      "team": "Senegal",
+      "age": 29,
+      "club": "Betis",
+      "birth_year": 1993
+    },
+    {
+      "player": "Youssoufa Moukoko",
+      "position": "FW",
+      "team": "Germany",
+      "age": 18,
+      "club": "Dortmund",
+      "birth_year": 2004
+    },
+    {
+      "player": "Youstin Salas",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 26,
+      "club": "Deportivo Saprissa",
+      "birth_year": 1996
+    },
+    {
+      "player": "Yuki Soma",
+      "position": "FW",
+      "team": "Japan",
+      "age": 25,
+      "club": "Grampus",
+      "birth_year": 1997
+    },
+    {
+      "player": "Yunus Musah",
+      "position": "MF",
+      "team": "United States",
+      "age": 20,
+      "club": "Valencia",
+      "birth_year": 2002
+    },
+    {
+      "player": "Yuto Nagatomo",
+      "position": "MF",
+      "team": "Japan",
+      "age": 36,
+      "club": "FC Tokyo",
+      "birth_year": 1986
+    },
+    {
+      "player": "Zakaria Aboukhlal",
+      "position": "FW",
+      "team": "Morocco",
+      "age": 22,
+      "club": "Toulouse",
+      "birth_year": 2000
+    },
+    {
+      "player": "Ãlvaro Morata",
+      "position": "FW",
+      "team": "Spain",
+      "age": 30,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1992
+    },
+    {
+      "player": "Ãlvaro Zamora",
+      "position": "MF",
+      "team": "Costa Rica",
+      "age": 20,
+      "club": "Deportivo Saprissa",
+      "birth_year": 2002
+    },
+    {
+      "player": "Ãngel Correa",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 27,
+      "club": "AtlÃ©tico Madrid",
+      "birth_year": 1995
+    },
+    {
+      "player": "Ãngel Di MarÃ­a",
+      "position": "MF",
+      "team": "Argentina",
+      "age": 34,
+      "club": "Juventus",
+      "birth_year": 1988
+    },
+    {
+      "player": "Ãngelo Preciado",
+      "position": "DF",
+      "team": "Ecuador",
+      "age": 24,
+      "club": "Genk",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ã‰der MilitÃ£o",
+      "position": "DF",
+      "team": "Brazil",
+      "age": 24,
+      "club": "Real Madrid",
+      "birth_year": 1998
+    },
+    {
+      "player": "Ã“scar Duarte",
+      "position": "DF",
+      "team": "Costa Rica",
+      "age": 33,
+      "club": "Al-Wehda",
+      "birth_year": 1989
+    },
+    {
+      "player": "Ä°lkay GÃ¼ndoÄŸan",
+      "position": "MF",
+      "team": "Germany",
+      "age": 32,
+      "club": "Manchester City",
+      "birth_year": 1990
+    }
+  ]
+}]
